@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfITUK" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfITUK" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:53924/ServiceUK.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data.Objects.DataClasses" />
+  <xs:complexType name="CompositeType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BoolValue" type="xs:boolean" />
+      <xs:element minOccurs="0" name="StringValue" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CompositeType" nillable="true" type="tns:CompositeType" />
+  <xs:complexType name="AnuncioModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Dataanuncio" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EmpresaId" type="xs:int" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Identidade" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Local_de_trabalho" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Numvisitas" type="xs:int" />
+      <xs:element minOccurs="0" name="Salario" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="AnuncioModel" nillable="true" type="tns:AnuncioModel" />
+  <xs:complexType name="DescricaoModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Anuncio_id" type="xs:int" />
+      <xs:element minOccurs="0" name="Descricao" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Idioma_id" type="xs:int" />
+      <xs:element minOccurs="0" name="Titulo" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DescricaoModel" nillable="true" type="tns:DescricaoModel" />
+  <xs:complexType name="ArrayOfempresa">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="empresa" nillable="true" type="tns:empresa" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfempresa" nillable="true" type="tns:ArrayOfempresa" />
+  <xs:complexType name="empresa">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/System.Data.Objects.DataClasses" base="q1:EntityObject">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="anuncio" nillable="true" type="tns:ArrayOfanuncio" />
+          <xs:element minOccurs="0" name="contacto" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="id" type="xs:int" />
+          <xs:element minOccurs="0" name="logo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="nome_da_empresa" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="url" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="username" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="empresa" nillable="true" type="tns:empresa" />
+  <xs:complexType name="ArrayOfanuncio">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="anuncio" nillable="true" type="tns:anuncio" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfanuncio" nillable="true" type="tns:ArrayOfanuncio" />
+  <xs:complexType name="anuncio">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/System.Data.Objects.DataClasses" base="q2:EntityObject">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="anunciodesc" nillable="true" type="tns:ArrayOfanunciodesc" />
+          <xs:element minOccurs="0" name="dataanuncio" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="email" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="empresa" nillable="true" type="tns:empresa" />
+          <xs:element minOccurs="0" name="empresaReference" nillable="true" type="q2:EntityReferenceOfempresa3uj_PhjL0" />
+          <xs:element minOccurs="0" name="empresa_id" type="xs:int" />
+          <xs:element minOccurs="0" name="id" type="xs:int" />
+          <xs:element minOccurs="0" name="identidade" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="local_de_trabalho" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="numvisitas" type="xs:int" />
+          <xs:element minOccurs="0" name="salario" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="anuncio" nillable="true" type="tns:anuncio" />
+  <xs:complexType name="ArrayOfanunciodesc">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="anunciodesc" nillable="true" type="tns:anunciodesc" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfanunciodesc" nillable="true" type="tns:ArrayOfanunciodesc" />
+  <xs:complexType name="anunciodesc">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/System.Data.Objects.DataClasses" base="q3:EntityObject">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="anuncio" nillable="true" type="tns:anuncio" />
+          <xs:element minOccurs="0" name="anuncioReference" nillable="true" type="q3:EntityReferenceOfanuncio3uj_PhjL0" />
+          <xs:element minOccurs="0" name="anuncio_id" type="xs:int" />
+          <xs:element minOccurs="0" name="descricao" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="id" type="xs:int" />
+          <xs:element minOccurs="0" name="idioma_id" type="xs:int" />
+          <xs:element minOccurs="0" name="idiomas" nillable="true" type="tns:idiomas" />
+          <xs:element minOccurs="0" name="idiomasReference" nillable="true" type="q3:EntityReferenceOfidiomas3uj_PhjL0" />
+          <xs:element minOccurs="0" name="titulo" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="anunciodesc" nillable="true" type="tns:anunciodesc" />
+  <xs:complexType name="idiomas">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q4="http://schemas.datacontract.org/2004/07/System.Data.Objects.DataClasses" base="q4:EntityObject">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="anunciodesc" nillable="true" type="tns:ArrayOfanunciodesc" />
+          <xs:element minOccurs="0" name="id" type="xs:int" />
+          <xs:element minOccurs="0" name="lang_code" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="idiomas" nillable="true" type="tns:idiomas" />
+  <xs:complexType name="EmpresaModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Contacto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Logo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nome_da_empresa" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Username" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="EmpresaModel" nillable="true" type="tns:EmpresaModel" />
+</xs:schema>

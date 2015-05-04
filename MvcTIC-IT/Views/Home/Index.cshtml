@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@{
+    MvcTIC_IT.ServiceRefPortugal.ServicePortugalClient proxy = new MvcTIC_IT.ServiceRefPortugal.ServicePortugalClient();
+    var pt = proxy.GetAllAnuncios();
+
+    MvcTIC_IT.ServiceRefEspanha.ServiceEspanhaClient proxyes = new MvcTIC_IT.ServiceRefEspanha.ServiceEspanhaClient();
+    var es = proxyes.GetAllAnuncios();
+
+    MvcTIC_IT.ServiceRefFrance.ServiceFranceClient proxyfr = new MvcTIC_IT.ServiceRefFrance.ServiceFranceClient();
+    var fr = proxyfr.GetAllAnuncios();
+
+    MvcTIC_IT.ServiceRefUK.ServiceUKClient proxyuk = new MvcTIC_IT.ServiceRefUK.ServiceUKClient();
+    var uk = proxyuk.GetAllAnuncios();
+
+
+    MvcTIC_IT.ServiceRefAlemanha.ServiceAlemanhaClient proxyal = new MvcTIC_IT.ServiceRefAlemanha.ServiceAlemanhaClient();
+    var al = proxyal.GetAllAnuncios();
+
+    MvcTIC_IT.ServiceRefWorld.ServiceWorldClient proxyww = new MvcTIC_IT.ServiceRefWorld.ServiceWorldClient();
+    var ww = proxyww.GetAllAnuncios();
+    
+}
+
+<h3>@Html.ActionLink("Portugal", "Index", "Portugal") : @pt.Count() @ViewRes.layout.jobofeers</h3>
+<br />
+<h3>@Html.ActionLink("España", "Index", "Espanha") : @es.Count() @ViewRes.layout.jobofeers</h3>
+<br />
+<h3>@Html.ActionLink("France", "Index", "France") : @fr.Count() @ViewRes.layout.jobofeers</h3>
+<br />
+<h3>@Html.ActionLink("UK", "Index", "UK") : @uk.Count() @ViewRes.layout.jobofeers</h3>
+<br />
+<h3>@Html.ActionLink("Deutschland", "Index", "Alemanha"): @al.Count() @ViewRes.layout.jobofeers</h3>
+<br />
+<h3>@Html.ActionLink("World", "Index", "World") : @ww.Count() @ViewRes.layout.jobofeers</h3>

@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "MySpecialOne";
+}
+
+<h2>@ViewRes.Home.meuspecialone</h2>
+<br />
+<br />
+
+<fieldset>
+<legend>@ViewRes.Home.gerirmeuspecialone</legend>
+<br />
+<br />
+@Html.ActionLink(ViewRes.Home.gerirportugal, "MeuAdmin", "Portugal")
+@Html.ActionLink(ViewRes.Home.gerirespanha, "MeuAdmin", "Espanha")
+@Html.ActionLink(ViewRes.Home.gerirfrance, "MeuAdmin", "France")
+@Html.ActionLink(ViewRes.Home.geriruk, "MeuAdmin", "UK")
+@Html.ActionLink(ViewRes.Home.geriralemanha, "MeuAdmin", "Alemanha")
+@Html.ActionLink(ViewRes.Home.gerirworld, "MeuAdmin", "World")
+<br />
+</fieldset>
+<br /><br />
+<fieldset>
+<legend>@ViewRes.Account.geriraminhaconta</legend>
+<br />
+<br />
+    @Html.ActionLink(ViewRes.Account.mudarpassword, "ChangePassword", "Account") 
+    <br />
+    @Html.ActionLink(ViewRes.Account.recuperaporemail, "RecuperarEmail", "Account") @ViewRes.Account.seperdeuapassword
+    <br />
+    @Html.ActionLink(ViewRes.Account.apagarconta, "Apaga", "ApagaConta") 
+<br />
+</fieldset>

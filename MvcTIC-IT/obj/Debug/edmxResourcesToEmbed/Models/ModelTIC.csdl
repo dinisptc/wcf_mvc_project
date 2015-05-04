@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="anuncio" EntityType="Model.anuncio" />
+    <EntitySet Name="desctitanuncio" EntityType="Model.desctitanuncio" />
+    <EntitySet Name="empresa" EntityType="Model.empresa" />
+    <EntitySet Name="idiomas" EntityType="Model.idiomas" />
+    <EntitySet Name="sysdiagrams" EntityType="Model.sysdiagrams" />
+    <AssociationSet Name="FK_anuncio_empresa" Association="Model.FK_anuncio_empresa">
+      <End Role="empresa" EntitySet="empresa" />
+      <End Role="anuncio" EntitySet="anuncio" />
+    </AssociationSet>
+    <AssociationSet Name="FK_desctitanuncio_anuncio" Association="Model.FK_desctitanuncio_anuncio">
+      <End Role="anuncio" EntitySet="anuncio" />
+      <End Role="desctitanuncio" EntitySet="desctitanuncio" />
+    </AssociationSet>
+    <AssociationSet Name="FK_desctitanuncio_idiomas" Association="Model.FK_desctitanuncio_idiomas">
+      <End Role="idiomas" EntitySet="idiomas" />
+      <End Role="desctitanuncio" EntitySet="desctitanuncio" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="anuncio">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="datadoanuncio" Nullable="false" />
+    <Property Type="Int32" Name="empresa_id" Nullable="false" />
+    <Property Type="String" Name="local_de_trabalho" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="salario" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="email" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="empresa" Relationship="Model.FK_anuncio_empresa" FromRole="anuncio" ToRole="empresa" />
+    <NavigationProperty Name="desctitanuncio" Relationship="Model.FK_desctitanuncio_anuncio" FromRole="anuncio" ToRole="desctitanuncio" />
+  </EntityType>
+  <EntityType Name="desctitanuncio">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="titulo" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="descricao" Nullable="false" MaxLength="2000" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="idioma_id" Nullable="false" />
+    <Property Type="Int32" Name="anuncio_id" Nullable="false" />
+    <NavigationProperty Name="anuncio" Relationship="Model.FK_desctitanuncio_anuncio" FromRole="desctitanuncio" ToRole="anuncio" />
+    <NavigationProperty Name="idiomas" Relationship="Model.FK_desctitanuncio_idiomas" FromRole="desctitanuncio" ToRole="idiomas" />
+  </EntityType>
+  <EntityType Name="empresa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="nome_da_empresa" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="url" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="logo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="contacto" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="username" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="anuncio" Relationship="Model.FK_anuncio_empresa" FromRole="empresa" ToRole="anuncio" />
+  </EntityType>
+  <EntityType Name="idiomas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="idioma" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="desctitanuncio" Relationship="Model.FK_desctitanuncio_idiomas" FromRole="idiomas" ToRole="desctitanuncio" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Type="String" Name="name" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="principal_id" Nullable="false" />
+    <Property Type="Int32" Name="diagram_id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="version" />
+    <Property Type="Binary" Name="definition" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_anuncio_empresa">
+    <End Type="Model.empresa" Role="empresa" Multiplicity="1" />
+    <End Type="Model.anuncio" Role="anuncio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="empresa">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anuncio">
+        <PropertyRef Name="empresa_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_desctitanuncio_anuncio">
+    <End Type="Model.anuncio" Role="anuncio" Multiplicity="1" />
+    <End Type="Model.desctitanuncio" Role="desctitanuncio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="anuncio">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="desctitanuncio">
+        <PropertyRef Name="anuncio_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_desctitanuncio_idiomas">
+    <End Type="Model.idiomas" Role="idiomas" Multiplicity="1" />
+    <End Type="Model.desctitanuncio" Role="desctitanuncio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="idiomas">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="desctitanuncio">
+        <PropertyRef Name="idioma_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

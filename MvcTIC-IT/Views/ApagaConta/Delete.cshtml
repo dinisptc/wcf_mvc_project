@@ -1,0 +1,24 @@
+﻿@model System.Web.Security.MembershipUser
+
+@{
+    ViewBag.Title = ViewRes.ApagaConta.apagarconta;
+}
+
+<h2>@ViewRes.ApagaConta.apagarconta</h2>
+
+<h3>@ViewRes.ApagaConta.temacerteza</h3>
+<fieldset>
+    <legend>@ViewRes.ApagaConta.apagarconta</legend>
+
+
+   @ViewRes.ApagaConta.utilizador : @Model.UserName
+
+
+
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="@ViewRes.ApagaConta.apagarconta" /> 
+    </p>
+}
+

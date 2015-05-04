@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MvcTIC_IT.ServiceRefEspanha.PortugalViewModel>
+
+@using PagedList.Mvc;
+
+
+
+@{
+    ViewBag.Title = "Page";
+}
+
+
+
+@if (Model.SearchResults != null )
+{
+    foreach (var result in Model.SearchResults)
+    { 
+    
+            <hr />           
+        <table width="100%">                     
+         <tr>                             
+         <td valign="top" width="*">     
+          <div style="font-weight: bold; font-size:large;">
+          @result.titulo, 
+         
+              </div>                        
+          @result.local_trabalho                         
+          @result.email                         
+          @result.salario                        
+         <td>                    
+         <tr>              
+        </table>
+    
+    
+    }
+    
+    
+            <hr />             
+          @Html.PagedListPager(Model.SearchResults,
+          page => Url.Action("Index", new RouteValueDictionary() 
+          {  
+                
+          { "Page", page },             
+          { "EmailAddress", Model.email }
+                     
+          }),
+          PagedListRenderOptions.PageNumbersOnly)
+    
+        
+}
+           
+
+
+ 

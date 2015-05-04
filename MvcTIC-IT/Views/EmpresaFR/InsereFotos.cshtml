@@ -1,0 +1,40 @@
+﻿@model  MvcTIC_IT.ServiceRefFrance.empresa
+
+@{
+    ViewBag.Title = ViewRes.Empresa.editarfotos;
+}
+
+<h2>@ViewRes.Empresa.editarfotos</h2>
+
+
+<table>                 
+        <tr>  
+            <td>                                             
+                @if (Model.logo != null)
+                {                                                                                                       
+                 <img src="/pt-PT/EmpresaFR/ThumbImoveis/@Model.logo" alt=""/>                                                             
+                }
+                else
+                {       
+                 <img src="/pt-PT/EmpresaFR/ThumbImoveis/nologo.jpg" alt=""/>             
+                }      
+            </td>
+         </tr>
+</table>
+
+
+  
+             <form method="post" action="@Url.Action("InsereFotos/"+ViewData["idi"]+"/")" enctype="multipart/form-data"> 
+                <input type="file" name="file" /> 
+                <input type="submit" value="submit" /> <br />
+              
+            </form>
+
+<br />
+<br />
+
+
+<div>
+       @Html.ActionLink(@ViewRes.Empresa.voltaparalista, "Index")
+</div>
+

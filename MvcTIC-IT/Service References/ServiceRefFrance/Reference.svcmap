@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="81980e5f-8cd2-4b95-8979-252503e461e4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53919/ServiceFrance.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceFrance.wsdl" MetadataType="Wsdl" ID="a8c49d02-c64a-48e5-827a-d2c351762e9b" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?wsdl" />
+    <MetadataFile FileName="ServiceFrance.disco" MetadataType="Disco" ID="0b8dae33-9a52-4034-99de-6697d038f8d1" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?disco" />
+    <MetadataFile FileName="ServiceFrance.xsd" MetadataType="Schema" ID="6db575af-caa8-4427-af8a-3e7a341e8443" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?xsd=xsd6" />
+    <MetadataFile FileName="ServiceFrance1.xsd" MetadataType="Schema" ID="35fda5e6-eeb1-4387-a467-78766bfbadcc" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?xsd=xsd4" />
+    <MetadataFile FileName="ServiceFrance2.xsd" MetadataType="Schema" ID="f991b5a4-419f-4b25-9bde-e7af1e07a033" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?xsd=xsd5" />
+    <MetadataFile FileName="ServiceFrance3.xsd" MetadataType="Schema" ID="e69d0b84-517e-4af6-97f2-e45870de4a67" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceFrance4.xsd" MetadataType="Schema" ID="5d2887eb-01ca-4725-bb56-cd00a2b6673b" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceFrance5.xsd" MetadataType="Schema" ID="a7c32f97-d559-4555-aa54-00b583da92bd" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceFrance6.xsd" MetadataType="Schema" ID="999bf4ed-3fe5-4a62-8e94-60d0c466dced" SourceId="1" SourceUrl="http://localhost:53919/ServiceFrance.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

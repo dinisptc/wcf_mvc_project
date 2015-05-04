@@ -1,0 +1,29 @@
+﻿@model MvcTIC_IT.Models.anuncio
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>anuncio</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.datadoanuncio)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.datadoanuncio)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.empresa.nome_da_empresa)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.empresa.nome_da_empresa)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

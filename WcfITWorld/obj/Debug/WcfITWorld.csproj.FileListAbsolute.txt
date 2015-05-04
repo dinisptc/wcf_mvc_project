@@ -1,0 +1,26 @@
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\WcfITWorld.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\WcfITWorld.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\WcfITWorld.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\WcfITWorld.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\WcfITWorld.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\WcfITWorld.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.Mvc.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.Mvc.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\ResolveAssemblyReference.cache
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\WcfITWorld.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\WcfITWorld.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\WcfITWorld.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\WcfITWorld.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\WcfITWorld.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITWorld\obj\Debug\WcfITWorld.pdb

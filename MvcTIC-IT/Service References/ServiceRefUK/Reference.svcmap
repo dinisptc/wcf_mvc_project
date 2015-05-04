@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e1d3ec5a-8e6f-4063-9a7c-7e5c2b8ac8ca" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53924/ServiceUK.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceUK.disco" MetadataType="Disco" ID="0fca94ed-d38b-4fb1-be9f-3132ef1473d5" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?disco" />
+    <MetadataFile FileName="ServiceUK.wsdl" MetadataType="Wsdl" ID="7b165d13-7774-4f8c-8024-1eaac178253e" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?wsdl" />
+    <MetadataFile FileName="ServiceUK.xsd" MetadataType="Schema" ID="e46cf8f8-dbb8-4e75-84cc-68a5e102ac14" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceUK1.xsd" MetadataType="Schema" ID="90b5ad9a-9bb5-450e-9b83-a620139d456e" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceUK2.xsd" MetadataType="Schema" ID="cdb83d04-255d-4a27-8010-e0165c048f84" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceUK6.xsd" MetadataType="Schema" ID="2423c6fe-dad5-4422-92b0-a731d9d2e3b3" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceUK3.xsd" MetadataType="Schema" ID="b23264fb-2893-4d5f-a04b-6fc294f06566" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?xsd=xsd6" />
+    <MetadataFile FileName="ServiceUK4.xsd" MetadataType="Schema" ID="207b57c5-0b1e-4c80-af3b-81047049cbff" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?xsd=xsd5" />
+    <MetadataFile FileName="ServiceUK5.xsd" MetadataType="Schema" ID="4257337f-6eef-4093-ae6b-3000bc43431f" SourceId="1" SourceUrl="http://localhost:53924/ServiceUK.svc?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,82 @@
+﻿@model MvcTIC_IT.ViewModels.AnuncioViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>anuncio</legend>
+
+
+         <div class="editor-label">
+            @Html.LabelFor(model => model.titulo)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.titulo)
+            @Html.ValidationMessageFor(model => model.titulo)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.descricao)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.descricao)
+            @Html.ValidationMessageFor(model => model.descricao)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.local_de_trabalho)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.local_de_trabalho)
+            @Html.ValidationMessageFor(model => model.local_de_trabalho)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.salario)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.salario)
+            @Html.ValidationMessageFor(model => model.salario)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.email)
+            @Html.ValidationMessageFor(model => model.email)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.empresa_id, "empresa")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("empresa_id", String.Empty)
+            @Html.ValidationMessageFor(model => model.empresa_id)
+        </div>
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.idioma_id, "idioma")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("idioma_id", String.Empty)
+            @Html.ValidationMessageFor(model => model.idioma_id)
+        </div>
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

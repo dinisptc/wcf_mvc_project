@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServiceAlemanha" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfITAlemanha" />
+      <xsd:import schemaLocation="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data.Objects.DataClasses" />
+      <xsd:import schemaLocation="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+      <xsd:import schemaLocation="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/WcfITPortugal.Viewmodels" />
+      <xsd:import schemaLocation="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd6" namespace="http://schemas.microsoft.com/Message" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServiceAlemanha_GetData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetDataUsingDataContract_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetDataUsingDataContract_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_AddAnuncioModel_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddAnuncioModel" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_AddAnuncioModel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddAnuncioModelResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_AddDescricao_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddDescricao" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_AddDescricao_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddDescricaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetIdioma_ID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetIdioma_ID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetIdioma_ID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetIdioma_IDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllEmpresaByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllEmpresaByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllAnunciosID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllAnunciosID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateVisitasAnuncioPortugal_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateVisitasAnuncioPortugal" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateVisitasAnuncioPortugal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateVisitasAnuncioPortugalResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosProcuraIndexByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosProcuraIndexByID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosProcuraIndexByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosProcuraIndexByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosDescProcuraIndexByIDAndLangCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDAndLangCode" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosDescProcuraIndexByIDAndLangCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDAndLangCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetCountIdiomas_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCountIdiomas" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetCountIdiomas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCountIdiomasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosDescProcuraIndexByIDALL_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDALL" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosDescProcuraIndexByIDALL_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDALLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosIndexByIdentidade_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosIndexByIdentidade" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAnunciosIndexByIdentidade_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosIndexByIdentidadeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllEmpresaByEmpresaID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByEmpresaID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllEmpresaByEmpresaID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByEmpresaIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_AddEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_AddEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="StreamData">
+    <wsdl:part name="parameters" element="tns:StreamData" />
+  </wsdl:message>
+  <wsdl:message name="StreamData_Headers">
+    <wsdl:part name="Codigo" element="tns:Codigo" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_Upload_OutputMessage" />
+  <wsdl:message name="IServiceAlemanha_UpdateImage_file_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateImage_file" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateImage_file_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateImage_fileResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetEmpresasIndexByIdentidade_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasIndexByIdentidade" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetEmpresasIndexByIdentidade_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasIndexByIdentidadeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetEmpresaIndexByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresaIndexByID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetEmpresaIndexByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresaIndexByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_DeleteEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_DeleteEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_DeleteAnuncio_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAnuncio" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_DeleteAnuncio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAnuncioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_Save_InputMessage">
+    <wsdl:part name="parameters" element="tns:Save" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_Save_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetEmpresasTodasasEmpresas_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasTodasasEmpresas" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetEmpresasTodasasEmpresas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasTodasasEmpresasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateAnuncio_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncio" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateAnuncio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateAnuncioDescricao_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncioDescricao" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_UpdateAnuncioDescricao_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncioDescricaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_Search_InputMessage">
+    <wsdl:part name="parameters" element="tns:Search" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_Search_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllAnuncios_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnuncios" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllAnuncios_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllAnunciosByIdentidade_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosByIdentidade" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAlemanha_GetAllAnunciosByIdentidade_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosByIdentidadeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServiceAlemanha">
+    <wsdl:operation name="GetData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetData" message="tns:IServiceAlemanha_GetData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetDataResponse" message="tns:IServiceAlemanha_GetData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetDataUsingDataContract" message="tns:IServiceAlemanha_GetDataUsingDataContract_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetDataUsingDataContractResponse" message="tns:IServiceAlemanha_GetDataUsingDataContract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddAnuncioModel">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/AddAnuncioModel" message="tns:IServiceAlemanha_AddAnuncioModel_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/AddAnuncioModelResponse" message="tns:IServiceAlemanha_AddAnuncioModel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddDescricao">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/AddDescricao" message="tns:IServiceAlemanha_AddDescricao_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/AddDescricaoResponse" message="tns:IServiceAlemanha_AddDescricao_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIdioma_ID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetIdioma_ID" message="tns:IServiceAlemanha_GetIdioma_ID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetIdioma_IDResponse" message="tns:IServiceAlemanha_GetIdioma_ID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllEmpresaByID" message="tns:IServiceAlemanha_GetAllEmpresaByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllEmpresaByIDResponse" message="tns:IServiceAlemanha_GetAllEmpresaByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllAnunciosID" message="tns:IServiceAlemanha_GetAllAnunciosID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllAnunciosIDResponse" message="tns:IServiceAlemanha_GetAllAnunciosID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateVisitasAnuncioPortugal">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateVisitasAnuncioPortugal" message="tns:IServiceAlemanha_UpdateVisitasAnuncioPortugal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateVisitasAnuncioPortugalResponse" message="tns:IServiceAlemanha_UpdateVisitasAnuncioPortugal_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosProcuraIndexByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosProcuraIndexByID" message="tns:IServiceAlemanha_GetAnunciosProcuraIndexByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosProcuraIndexByIDResponse" message="tns:IServiceAlemanha_GetAnunciosProcuraIndexByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDAndLangCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosDescProcuraIndexByIDAndLangCode" message="tns:IServiceAlemanha_GetAnunciosDescProcuraIndexByIDAndLangCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosDescProcuraIndexByIDAndLangCodeResponse" message="tns:IServiceAlemanha_GetAnunciosDescProcuraIndexByIDAndLangCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCountIdiomas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetCountIdiomas" message="tns:IServiceAlemanha_GetCountIdiomas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetCountIdiomasResponse" message="tns:IServiceAlemanha_GetCountIdiomas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDALL">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosDescProcuraIndexByIDALL" message="tns:IServiceAlemanha_GetAnunciosDescProcuraIndexByIDALL_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosDescProcuraIndexByIDALLResponse" message="tns:IServiceAlemanha_GetAnunciosDescProcuraIndexByIDALL_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosIndexByIdentidade">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosIndexByIdentidade" message="tns:IServiceAlemanha_GetAnunciosIndexByIdentidade_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAnunciosIndexByIdentidadeResponse" message="tns:IServiceAlemanha_GetAnunciosIndexByIdentidade_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByEmpresaID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllEmpresaByEmpresaID" message="tns:IServiceAlemanha_GetAllEmpresaByEmpresaID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllEmpresaByEmpresaIDResponse" message="tns:IServiceAlemanha_GetAllEmpresaByEmpresaID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/AddEmpresa" message="tns:IServiceAlemanha_AddEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/AddEmpresaResponse" message="tns:IServiceAlemanha_AddEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Upload">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/Upload" name="StreamData" message="tns:StreamData" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/UploadResponse" message="tns:IServiceAlemanha_Upload_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateImage_file">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateImage_file" message="tns:IServiceAlemanha_UpdateImage_file_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateImage_fileResponse" message="tns:IServiceAlemanha_UpdateImage_file_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasIndexByIdentidade">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetEmpresasIndexByIdentidade" message="tns:IServiceAlemanha_GetEmpresasIndexByIdentidade_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetEmpresasIndexByIdentidadeResponse" message="tns:IServiceAlemanha_GetEmpresasIndexByIdentidade_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateEmpresa" message="tns:IServiceAlemanha_UpdateEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateEmpresaResponse" message="tns:IServiceAlemanha_UpdateEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresaIndexByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetEmpresaIndexByID" message="tns:IServiceAlemanha_GetEmpresaIndexByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetEmpresaIndexByIDResponse" message="tns:IServiceAlemanha_GetEmpresaIndexByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/DeleteEmpresa" message="tns:IServiceAlemanha_DeleteEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/DeleteEmpresaResponse" message="tns:IServiceAlemanha_DeleteEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAnuncio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/DeleteAnuncio" message="tns:IServiceAlemanha_DeleteAnuncio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/DeleteAnuncioResponse" message="tns:IServiceAlemanha_DeleteAnuncio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Save">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/Save" message="tns:IServiceAlemanha_Save_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/SaveResponse" message="tns:IServiceAlemanha_Save_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasTodasasEmpresas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetEmpresasTodasasEmpresas" message="tns:IServiceAlemanha_GetEmpresasTodasasEmpresas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetEmpresasTodasasEmpresasResponse" message="tns:IServiceAlemanha_GetEmpresasTodasasEmpresas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateAnuncio" message="tns:IServiceAlemanha_UpdateAnuncio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateAnuncioResponse" message="tns:IServiceAlemanha_UpdateAnuncio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncioDescricao">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateAnuncioDescricao" message="tns:IServiceAlemanha_UpdateAnuncioDescricao_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/UpdateAnuncioDescricaoResponse" message="tns:IServiceAlemanha_UpdateAnuncioDescricao_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Search">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/Search" message="tns:IServiceAlemanha_Search_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/SearchResponse" message="tns:IServiceAlemanha_Search_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnuncios">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllAnuncios" message="tns:IServiceAlemanha_GetAllAnuncios_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllAnunciosResponse" message="tns:IServiceAlemanha_GetAllAnuncios_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosByIdentidade">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllAnunciosByIdentidade" message="tns:IServiceAlemanha_GetAllAnunciosByIdentidade_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAlemanha/GetAllAnunciosByIdentidadeResponse" message="tns:IServiceAlemanha_GetAllAnunciosByIdentidade_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServiceAlemanha" type="tns:IServiceAlemanha">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetDataUsingDataContract" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddAnuncioModel">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/AddAnuncioModel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddDescricao">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/AddDescricao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIdioma_ID">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetIdioma_ID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByID">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAllEmpresaByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosID">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAllAnunciosID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateVisitasAnuncioPortugal">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/UpdateVisitasAnuncioPortugal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosProcuraIndexByID">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAnunciosProcuraIndexByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDAndLangCode">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAnunciosDescProcuraIndexByIDAndLangCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCountIdiomas">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetCountIdiomas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDALL">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAnunciosDescProcuraIndexByIDALL" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosIndexByIdentidade">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAnunciosIndexByIdentidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByEmpresaID">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAllEmpresaByEmpresaID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddEmpresa">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/AddEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Upload">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/Upload" style="document" />
+      <wsdl:input name="StreamData">
+        <soap:header message="tns:StreamData_Headers" part="Codigo" use="literal" />
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateImage_file">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/UpdateImage_file" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasIndexByIdentidade">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetEmpresasIndexByIdentidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEmpresa">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/UpdateEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresaIndexByID">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetEmpresaIndexByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEmpresa">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/DeleteEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAnuncio">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/DeleteAnuncio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Save">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/Save" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasTodasasEmpresas">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetEmpresasTodasasEmpresas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncio">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/UpdateAnuncio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncioDescricao">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/UpdateAnuncioDescricao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Search">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/Search" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnuncios">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAllAnuncios" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosByIdentidade">
+      <soap:operation soapAction="http://tempuri.org/IServiceAlemanha/GetAllAnunciosByIdentidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceAlemanha">
+    <wsdl:port name="BasicHttpBinding_IServiceAlemanha" binding="tns:BasicHttpBinding_IServiceAlemanha">
+      <soap:address location="http://localhost:53929/ServiceAlemanha.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

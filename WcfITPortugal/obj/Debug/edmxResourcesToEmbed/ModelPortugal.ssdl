@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PortugalModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="PortugalModelStoreContainer">
+    <EntitySet Name="anuncio" EntityType="PortugalModel.Store.anuncio" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="anunciodesc" EntityType="PortugalModel.Store.anunciodesc" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="empresa" EntityType="PortugalModel.Store.empresa" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="PortugalModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="idiomas" EntityType="PortugalModel.Store.idiomas" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_anuncio_empresa" Association="PortugalModel.Store.FK_anuncio_empresa">
+      <End Role="empresa" EntitySet="empresa" />
+      <End Role="anuncio" EntitySet="anuncio" />
+    </AssociationSet>
+    <AssociationSet Name="FK_anunciodesc_anuncio" Association="PortugalModel.Store.FK_anunciodesc_anuncio">
+      <End Role="anuncio" EntitySet="anuncio" />
+      <End Role="anunciodesc" EntitySet="anunciodesc" />
+    </AssociationSet>
+    <AssociationSet Name="FK_anunciodesc_idiomas" Association="PortugalModel.Store.FK_anunciodesc_idiomas">
+      <End Role="idiomas" EntitySet="idiomas" />
+      <End Role="anunciodesc" EntitySet="anunciodesc" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="anuncio">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="dataanuncio" Type="datetime" Nullable="false" />
+    <Property Name="empresa_id" Type="int" Nullable="false" />
+    <Property Name="local_de_trabalho" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="salario" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="email" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="identidade" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="numvisitas" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="anunciodesc">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="titulo" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="descricao" Type="nvarchar" Nullable="false" MaxLength="2000" />
+    <Property Name="idioma_id" Type="int" Nullable="false" />
+    <Property Name="anuncio_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="empresa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nome_da_empresa" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="url" Type="nvarchar" Nullable="true" MaxLength="500" />
+    <Property Name="logo" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="contacto" Type="nvarchar" Nullable="true" MaxLength="500" />
+    <Property Name="username" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" Nullable="true" />
+    <Property Name="definition" Type="varbinary(max)" Nullable="true" />
+  </EntityType>
+  <EntityType Name="idiomas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="lang_code" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_anuncio_empresa">
+    <End Role="empresa" Type="PortugalModel.Store.empresa" Multiplicity="1" />
+    <End Role="anuncio" Type="PortugalModel.Store.anuncio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="empresa">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anuncio">
+        <PropertyRef Name="empresa_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_anunciodesc_anuncio">
+    <End Role="anuncio" Type="PortugalModel.Store.anuncio" Multiplicity="1" />
+    <End Role="anunciodesc" Type="PortugalModel.Store.anunciodesc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="anuncio">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anunciodesc">
+        <PropertyRef Name="anuncio_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_anunciodesc_idiomas">
+    <End Role="idiomas" Type="PortugalModel.Store.idiomas" Multiplicity="1" />
+    <End Role="anunciodesc" Type="PortugalModel.Store.anunciodesc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="idiomas">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anunciodesc">
+        <PropertyRef Name="idioma_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

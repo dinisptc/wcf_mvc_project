@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fa1885a5-c497-4417-a8f9-045e967e57a9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53934/ServiceWorld.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceWorld4.xsd" MetadataType="Schema" ID="6ecdd9a7-85f0-48ec-98c9-988421919661" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceWorld.xsd" MetadataType="Schema" ID="39e0e20f-d152-41ad-bc84-bc7da73fe438" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceWorld1.xsd" MetadataType="Schema" ID="ff04b82c-d4eb-4735-8356-340623d4fc0e" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?xsd=xsd6" />
+    <MetadataFile FileName="ServiceWorld2.xsd" MetadataType="Schema" ID="f3724432-d07e-4feb-a4e3-cf26977cd03f" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?xsd=xsd5" />
+    <MetadataFile FileName="ServiceWorld3.xsd" MetadataType="Schema" ID="57b56ab6-2dcb-419f-a9ab-8d8db5aa46d1" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceWorld.disco" MetadataType="Disco" ID="624fa622-2966-44bc-858b-cc233c2433e1" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?disco" />
+    <MetadataFile FileName="ServiceWorld5.xsd" MetadataType="Schema" ID="6f6247e7-59a6-4678-bfa6-078dfec5b274" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceWorld6.xsd" MetadataType="Schema" ID="8446dbda-4692-4a5e-bf01-c0c0d3a5380d" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?xsd=xsd4" />
+    <MetadataFile FileName="ServiceWorld.wsdl" MetadataType="Wsdl" ID="a45c9bf5-b4b5-4ed8-ad83-a92c1f73ab37" SourceId="1" SourceUrl="http://localhost:53934/ServiceWorld.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "MeuAdmin";
+}
+
+<h2>World</h2>
+<br />
+<br />
+
+<fieldset>
+<legend>@ViewRes.layout.gerirasminhasempresas</legend>
+<br />
+<br />
+@Html.ActionLink(ViewRes.layout.MinhasEmpresa, "Index", "EmpresaWW")
+@Html.ActionLink(ViewRes.Empresa.criaempresa, "Create", "EmpresaWW")
+<br />
+</fieldset>
+
+<fieldset>
+<legend>@ViewRes.layout.gerirosmeusanuncios</legend>
+<br />
+<br />
+@Html.ActionLink(ViewRes.layout.gerirosmeusanuncios, "IndexMeuAdmin", "World")
+
+@Html.ActionLink(ViewRes.layout.criaroferta, "CriarOferta", "World")
+<br />
+
+
+</fieldset>
+
+    <br />
+    <br />
+
+          <a href="javascript:history.go(-1)">@ViewRes.Portugal.volta</a>

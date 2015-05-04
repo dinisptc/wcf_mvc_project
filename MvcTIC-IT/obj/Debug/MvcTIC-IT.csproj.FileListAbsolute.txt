@@ -1,0 +1,504 @@
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\ResolveAssemblyReference.cache
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.read.1.tlog
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.write.1.tlog
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.read.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.write.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\ResolveAssemblyReference.cache
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.pt.resources
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.read.1.tlog
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.write.1.tlog
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.read.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.write.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.read.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.write.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.read.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.write.1.tlog
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\es\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\es\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\de\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\fr\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\de\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\fr\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\de\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\es\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\fr\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\ResolveAssemblyReference.cache
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.pt.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.de.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.es.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.fr.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.pt.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.es.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.fr.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.pt.resources
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.read.1.tlog
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\GenerateResource.write.1.tlog
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\de\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\es\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\fr\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\de\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\es\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\fr\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Microsoft.Web.Infrastructure.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Providers.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\AjaxMin.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\EntityFramework.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Net.Http.WebRequest.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Helpers.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Deployment.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\System.Web.WebPages.Razor.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\bin\Xml.Schema.Linq.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.ViewModels.Anuncios.Anuncios.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Account.Account.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Empresa.Empresa.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Home.Home.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Layout.layout.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.Portugal.Portugal.pt.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.csproj.GenerateResource.Cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\de\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\es\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\fr\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.ApagaConta.ApagaConta.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.ApagaConta.ApagaConta.de.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.ApagaConta.ApagaConta.es.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.ApagaConta.ApagaConta.fr.resources
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\obj\Debug\MvcTIC_IT.Resources.Views.ApagaConta.ApagaConta.pt.resources

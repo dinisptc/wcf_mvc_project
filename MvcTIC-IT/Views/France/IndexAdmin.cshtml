@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MvcTIC_IT.ServiceRefFrance.PortugalViewModel>
+
+@{
+    ViewBag.Title = "IndexAdmin";
+}
+
+<h2>IndexAdmin</h2>
+
+
+
+    @if ((int)ViewData["totalregistos"] != 0)
+    { 
+       
+      @ViewRes.Portugal.numerototalregistos <strong>@ViewData["totalregistos"]</strong>
+    }
+    else
+    {  
+      @ViewRes.Portugal.naoharegistos
+    }
+
+
+@{        
+   
+   var grid = new WebGrid(source: Model,
+                defaultSort: "dataanuncio", 
+                rowsPerPage: 10);
+}
+
+ 
+<div id="grid">
+    @grid.GetHtml(
+        tableStyle: "grid",
+        headerStyle: "head",
+        alternatingRowStyle: "alt",
+        columns: grid.Columns(
+                grid.Column("titulo", ViewRes.Portugal.titulo),
+                grid.Column("identidade", "Identidade"),
+                grid.Column(format: (item) => Html.ActionLink(ViewRes.Portugal.detalhes, "Detalhes", new { id = item.Id })),
+                grid.Column(format: (item) => Html.ActionLink(ViewRes.Portugal.editar, "Edit", new { id = item.Id }))            
+            )         
+        
+    )
+</div>

@@ -1,0 +1,96 @@
+﻿@model MvcTIC_IT.ViewModels.PortugalViewModel
+
+
+
+@{
+    ViewBag.Title = ViewRes.Portugal.viewbagtittlecreate;
+}
+
+<h2>España</h2>
+<br />
+<br />
+
+<h2>@ViewRes.Portugal.criaoferta</h2>
+
+<br />
+<br />
+
+<script src="@Url.Content("~/Scripts/ckeditor/ckeditor.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+
+
+
+@using (Html.BeginForm("CriarOferta", "Espanha", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{  
+
+    <fieldset>
+ 
+
+        <div class="editor-label">
+             @ViewRes.Portugal.email
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.email)
+            @Html.ValidationMessageFor(model => model.email)
+        </div>
+
+        <div class="editor-label">
+              @ViewRes.Portugal.local_de_trabalho
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.local_de_trabalho)
+            @Html.ValidationMessageFor(model => model.local_de_trabalho)
+        </div>
+
+        <div class="editor-label">
+              @ViewRes.Portugal.salario
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.salario)
+            @Html.ValidationMessageFor(model => model.salario)
+        </div>
+
+
+         <div class="editor-label">
+            @ViewRes.Portugal.empresa
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("empresa_id", String.Empty)
+            @Html.ValidationMessageFor(model => model.empresa_id)
+        </div>
+
+
+
+         <div class="editor-label">
+             @ViewRes.Portugal.titulo 
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.titulo, htmlAttributes: new { style = "color:blue; width:95%;",maxlength="200" })
+            @Html.ValidationMessageFor(model => model.titulo)
+        </div>
+
+        <div class="editor-label">
+             @ViewRes.Portugal.descricao 
+        </div>
+        
+       <div class="editor-field">
+             @Html.TextAreaFor(model => model.descricao, new { id = "editor1", @class = "ckeditor", cols = "60", rows = "10", name = "editor1" })
+      
+              @Html.ValidationMessageFor(model => model.descricao)
+       </div>
+
+       <br />
+       <br />
+            <input type="submit" id="save" class="save" value="@ViewRes.Portugal.criaoferta" />
+    </fieldset>
+    
+}
+
+<br />
+<br />
+<div>
+    @Html.ActionLink(ViewRes.Portugal.voltaparalista, "Index") |
+    <a href="javascript:history.go(-1)">@ViewRes.Portugal.volta</a>
+</div>

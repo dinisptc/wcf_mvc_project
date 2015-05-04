@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3f7cc7f7-337d-4c4e-934b-6b7cbad082a0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53909/ServicePortugal.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicePortugal.xsd" MetadataType="Schema" ID="54d4eb3b-9946-41e1-91e0-8e1e23689bc4" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServicePortugal3.xsd" MetadataType="Schema" ID="04ec3ef5-5721-4e91-9eeb-7b9ec5dbad43" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?xsd=xsd6" />
+    <MetadataFile FileName="ServicePortugal.disco" MetadataType="Disco" ID="262851e6-74fe-48e7-8d3e-4e13691d39e5" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?disco" />
+    <MetadataFile FileName="ServicePortugal1.xsd" MetadataType="Schema" ID="19f557f0-5aed-4e8d-a908-a6f1d81917e7" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicePortugal5.xsd" MetadataType="Schema" ID="5e920084-d371-42e4-89e0-dc8b902eed7e" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicePortugal4.xsd" MetadataType="Schema" ID="1612abab-d36c-4a77-9fae-9f6429faaa81" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?xsd=xsd4" />
+    <MetadataFile FileName="ServicePortugal2.xsd" MetadataType="Schema" ID="5f1661cc-026a-46ae-9611-41f284075484" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicePortugal.wsdl" MetadataType="Wsdl" ID="987b71c7-0399-47c6-af0b-bf6f2a9d331f" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?wsdl" />
+    <MetadataFile FileName="ServicePortugal6.xsd" MetadataType="Schema" ID="eedaa011-34a2-4dc2-a972-d3407b5e341f" SourceId="1" SourceUrl="http://localhost:53909/ServicePortugal.svc?xsd=xsd5" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

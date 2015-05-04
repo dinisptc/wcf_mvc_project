@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AlemanhaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="AlemanhaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="anuncio" EntityType="AlemanhaModel.anuncio" />
+    <EntitySet Name="anunciodesc" EntityType="AlemanhaModel.anunciodesc" />
+    <EntitySet Name="empresa" EntityType="AlemanhaModel.empresa" />
+    <EntitySet Name="idiomas" EntityType="AlemanhaModel.idiomas" />
+    <EntitySet Name="sysdiagrams" EntityType="AlemanhaModel.sysdiagrams" />
+    <AssociationSet Name="FK_anuncio_empresa" Association="AlemanhaModel.FK_anuncio_empresa">
+      <End Role="empresa" EntitySet="empresa" />
+      <End Role="anuncio" EntitySet="anuncio" />
+    </AssociationSet>
+    <AssociationSet Name="FK_anunciodesc_anuncio" Association="AlemanhaModel.FK_anunciodesc_anuncio">
+      <End Role="anuncio" EntitySet="anuncio" />
+      <End Role="anunciodesc" EntitySet="anunciodesc" />
+    </AssociationSet>
+    <AssociationSet Name="FK_anunciodesc_idiomas" Association="AlemanhaModel.FK_anunciodesc_idiomas">
+      <End Role="idiomas" EntitySet="idiomas" />
+      <End Role="anunciodesc" EntitySet="anunciodesc" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="anuncio">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dataanuncio" Type="DateTime" Nullable="false" />
+    <Property Name="empresa_id" Type="Int32" Nullable="false" />
+    <Property Name="local_de_trabalho" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="salario" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="email" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="identidade" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="numvisitas" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="empresa" Relationship="AlemanhaModel.FK_anuncio_empresa" FromRole="anuncio" ToRole="empresa" />
+    <NavigationProperty Name="anunciodesc" Relationship="AlemanhaModel.FK_anunciodesc_anuncio" FromRole="anuncio" ToRole="anunciodesc" />
+  </EntityType>
+  <EntityType Name="anunciodesc">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="titulo" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="descricao" Type="String" Nullable="false" MaxLength="4000" Unicode="true" FixedLength="false" />
+    <Property Name="idioma_id" Type="Int32" Nullable="false" />
+    <Property Name="anuncio_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="anuncio" Relationship="AlemanhaModel.FK_anunciodesc_anuncio" FromRole="anunciodesc" ToRole="anuncio" />
+    <NavigationProperty Name="idiomas" Relationship="AlemanhaModel.FK_anunciodesc_idiomas" FromRole="anunciodesc" ToRole="idiomas" />
+  </EntityType>
+  <EntityType Name="empresa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nome_da_empresa" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="url" Type="String" MaxLength="500" Unicode="true" FixedLength="false" />
+    <Property Name="logo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="contacto" Type="String" MaxLength="500" Unicode="true" FixedLength="false" />
+    <Property Name="username" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="anuncio" Relationship="AlemanhaModel.FK_anuncio_empresa" FromRole="empresa" ToRole="anuncio" />
+  </EntityType>
+  <EntityType Name="idiomas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="lang_code" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="anunciodesc" Relationship="AlemanhaModel.FK_anunciodesc_idiomas" FromRole="idiomas" ToRole="anunciodesc" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_anuncio_empresa">
+    <End Role="empresa" Type="AlemanhaModel.empresa" Multiplicity="1" />
+    <End Role="anuncio" Type="AlemanhaModel.anuncio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="empresa">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anuncio">
+        <PropertyRef Name="empresa_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_anunciodesc_anuncio">
+    <End Role="anuncio" Type="AlemanhaModel.anuncio" Multiplicity="1" />
+    <End Role="anunciodesc" Type="AlemanhaModel.anunciodesc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="anuncio">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anunciodesc">
+        <PropertyRef Name="anuncio_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_anunciodesc_idiomas">
+    <End Role="idiomas" Type="AlemanhaModel.idiomas" Multiplicity="1" />
+    <End Role="anunciodesc" Type="AlemanhaModel.anunciodesc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="idiomas">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anunciodesc">
+        <PropertyRef Name="idioma_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

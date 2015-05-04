@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f5b088c7-20be-461a-9558-407eacb5dfa0" name="pedro@PEDRO-HP 2012-04-15 17:50:37" runUser="pedro-HP\pedro" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="cbb7868b-cdd9-43ee-a9db-2f019d996801">
+    <Deployment runDeploymentRoot="pedro_PEDRO-HP 2012-04-15 17_50_37">
+      <DeploymentItem filename="F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\bin\MvcTIC-IT.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-15T17:50:37.0683228+01:00" queuing="2012-04-15T17:50:39.1054393+01:00" start="2012-04-15T17:50:39.2064451+01:00" finish="2012-04-15T17:50:50.8671120+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="f:\projectos\www.tic-it.com\mvctic-it\mvctic-it.tests\bin\debug\mvctic-it.tests.dll" id="06493da0-7abc-1876-b38f-419b24fe4654">
+      <Execution id="c66ca02c-813c-41c9-a171-bcac844fc84d" />
+      <TestMethod codeBase="F:/PROJECTOS/www.tic-it.com/MvcTIC-IT/MvcTIC-IT.Tests/bin/Debug/MvcTIC-IT.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcTIC_IT.Tests.Controllers.HomeControllerTest, MvcTIC-IT.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="06493da0-7abc-1876-b38f-419b24fe4654" executionId="c66ca02c-813c-41c9-a171-bcac844fc84d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c66ca02c-813c-41c9-a171-bcac844fc84d" testId="06493da0-7abc-1876-b38f-419b24fe4654" testName="Index" computerName="PEDRO-HP" duration="00:00:09.7415344" startTime="2012-04-15T17:50:39.2814494+01:00" endTime="2012-04-15T17:50:50.8131090+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c66ca02c-813c-41c9-a171-bcac844fc84d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method MvcTIC_IT.Tests.Controllers.HomeControllerTest.Index threw exception: 
+System.ArgumentException: The specified named connection is either not found in the configuration, not intended to be used with the EntityClient provider, or not valid.</Message>
+          <StackTrace>    at System.Data.EntityClient.EntityConnection.ChangeConnectionString(String newConnectionString)
+   at System.Data.EntityClient.EntityConnection..ctor(String connectionString)
+   at System.Data.Objects.ObjectContext.CreateEntityConnection(String connectionString)
+   at System.Data.Objects.ObjectContext..ctor(String connectionString, String defaultContainerName)
+   at MvcTIC_IT.Models.Entities..ctor() in F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\Models\ModelTIC.Designer.cs:line 41
+   at MvcTIC_IT.Controllers.HomeController..ctor() in F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT\Controllers\HomeController.cs:line 14
+   at MvcTIC_IT.Tests.Controllers.HomeControllerTest.Index() in F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\Controllers\HomeControllerTest.cs:line 19
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

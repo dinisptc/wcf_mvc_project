@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="473af5f5-b187-4b32-91db-79dcc8e1d3eb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53914/ServiceEspanha.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceEspanha.wsdl" MetadataType="Wsdl" ID="ab536aad-f17d-45c9-b867-37b42479445b" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?wsdl" />
+    <MetadataFile FileName="ServiceEspanha.xsd" MetadataType="Schema" ID="c101a223-243e-49c6-ae9b-66d8ccd7e4c0" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?xsd=xsd5" />
+    <MetadataFile FileName="ServiceEspanha1.xsd" MetadataType="Schema" ID="5f5220e2-27b6-4497-aa99-3a02b9b1b4d3" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?xsd=xsd6" />
+    <MetadataFile FileName="ServiceEspanha2.xsd" MetadataType="Schema" ID="172d54f2-2a78-4d75-a257-d82f6381bae2" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?xsd=xsd4" />
+    <MetadataFile FileName="ServiceEspanha.disco" MetadataType="Disco" ID="95cce378-2623-4bd3-8030-a3a648c4d451" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?disco" />
+    <MetadataFile FileName="ServiceEspanha3.xsd" MetadataType="Schema" ID="5b6ff1fb-9c84-4fb2-9485-427e01586015" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceEspanha4.xsd" MetadataType="Schema" ID="66522f82-1926-4c89-a159-8c6e3482c1c2" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceEspanha5.xsd" MetadataType="Schema" ID="ba245aa4-8888-418d-8753-f33e8ec51444" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceEspanha6.xsd" MetadataType="Schema" ID="89d03944-2184-48ef-8897-b23b3e2f2f4c" SourceId="1" SourceUrl="http://localhost:53914/ServiceEspanha.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

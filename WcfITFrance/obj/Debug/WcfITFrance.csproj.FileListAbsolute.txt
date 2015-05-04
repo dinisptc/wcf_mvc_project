@@ -1,0 +1,26 @@
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\WcfITFrance.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\WcfITFrance.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\WcfITFrance.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\WcfITFrance.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.Mvc.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\WcfITFrance.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\WcfITFrance.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.Mvc.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.Mvc.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\ResolveAssemblyReference.cache
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\WcfITFrance.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\WcfITFrance.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\WcfITFrance.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\WcfITFrance.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.Mvc.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\bin\PagedList.Mvc.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\WcfITFrance.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\WcfITFrance\obj\Debug\WcfITFrance.pdb

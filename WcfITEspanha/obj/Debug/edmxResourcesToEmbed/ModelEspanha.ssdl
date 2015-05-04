@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EspanhaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="EspanhaModelStoreContainer">
+    <EntitySet Name="anuncio" EntityType="EspanhaModel.Store.anuncio" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="anunciodesc" EntityType="EspanhaModel.Store.anunciodesc" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="empresa" EntityType="EspanhaModel.Store.empresa" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="idiomas" EntityType="EspanhaModel.Store.idiomas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="EspanhaModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_anuncio_empresa" Association="EspanhaModel.Store.FK_anuncio_empresa">
+      <End Role="empresa" EntitySet="empresa" />
+      <End Role="anuncio" EntitySet="anuncio" />
+    </AssociationSet>
+    <AssociationSet Name="FK_anunciodesc_anuncio" Association="EspanhaModel.Store.FK_anunciodesc_anuncio">
+      <End Role="anuncio" EntitySet="anuncio" />
+      <End Role="anunciodesc" EntitySet="anunciodesc" />
+    </AssociationSet>
+    <AssociationSet Name="FK_anunciodesc_idiomas" Association="EspanhaModel.Store.FK_anunciodesc_idiomas">
+      <End Role="idiomas" EntitySet="idiomas" />
+      <End Role="anunciodesc" EntitySet="anunciodesc" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="anuncio">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="dataanuncio" Type="datetime" Nullable="false" />
+    <Property Name="empresa_id" Type="int" Nullable="false" />
+    <Property Name="local_de_trabalho" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="salario" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="email" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="identidade" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="numvisitas" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="anunciodesc">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="titulo" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="descricao" Type="nvarchar" Nullable="false" />
+    <Property Name="idioma_id" Type="int" Nullable="false" />
+    <Property Name="anuncio_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="empresa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="nome_da_empresa" Type="nvarchar" MaxLength="50" />
+    <Property Name="url" Type="nvarchar" MaxLength="500" />
+    <Property Name="logo" Type="nvarchar" MaxLength="50" />
+    <Property Name="contacto" Type="nvarchar" MaxLength="500" />
+    <Property Name="username" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="idiomas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="lang_code" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_anuncio_empresa">
+    <End Role="empresa" Type="EspanhaModel.Store.empresa" Multiplicity="1" />
+    <End Role="anuncio" Type="EspanhaModel.Store.anuncio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="empresa">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anuncio">
+        <PropertyRef Name="empresa_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_anunciodesc_anuncio">
+    <End Role="anuncio" Type="EspanhaModel.Store.anuncio" Multiplicity="1" />
+    <End Role="anunciodesc" Type="EspanhaModel.Store.anunciodesc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="anuncio">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anunciodesc">
+        <PropertyRef Name="anuncio_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_anunciodesc_idiomas">
+    <End Role="idiomas" Type="EspanhaModel.Store.idiomas" Multiplicity="1" />
+    <End Role="anunciodesc" Type="EspanhaModel.Store.anunciodesc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="idiomas">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="anunciodesc">
+        <PropertyRef Name="idioma_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" ReturnType="int" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+</Schema>

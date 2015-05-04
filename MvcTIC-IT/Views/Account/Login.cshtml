@@ -1,0 +1,46 @@
+@model MvcTIC_IT.Models.LoginModel
+
+@{
+    ViewBag.Title = @ViewRes.Account.login;
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewRes.Account.enterlogpass</h2>
+</hgroup>
+
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+@using (Html.BeginForm((string)ViewBag.FormAction, "Account")) {
+    @Html.ValidationSummary(true,ViewRes.Account.loginsemsucesso)
+
+    <fieldset>
+        <legend>@ViewRes.Account.loginform</legend>
+        <br />
+            @Html.ActionLink(ViewRes.Account.recuperaporemail, "RecuperarEmail") @ViewRes.Account.seperdeuapassword
+        <br />
+        <ol>
+            <li>
+                @*@Html.LabelFor(m => m.UserName)*@
+                @ViewRes.Account.username
+                @Html.TextBoxFor(m => m.UserName)
+                @Html.ValidationMessageFor(m => m.UserName)
+            </li>
+            <li>
+                @*@Html.LabelFor(m => m.Password)*@
+                @ViewRes.Account.password
+                @Html.PasswordFor(m => m.Password)
+                @Html.ValidationMessageFor(m => m.Password)
+            </li>
+            <li>
+                @Html.CheckBoxFor(m => m.RememberMe)
+                @Html.LabelFor(m => m.RememberMe, new { @class = "checkbox" })
+            </li>
+        </ol>
+        <input type="submit" value="@ViewRes.Account.login" />
+    </fieldset>
+    <p>
+        @Html.ActionLink(ViewRes.Account.register, "Register") @ViewRes.Account.naotemconta
+    </p>
+}

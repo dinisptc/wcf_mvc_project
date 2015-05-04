@@ -1,0 +1,68 @@
+﻿@model IPagedList<MvcTIC_IT.ServiceRefEspanha.PortugalViewModel>
+
+@{
+    ViewBag.Title = "List";
+}
+
+@using PagedList.Mvc;
+@using PagedList;
+ 
+<html>
+<head>
+    <title>Paged List Demo</title>
+
+    <link href="../../Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+ 
+<table>
+
+    <tbody>
+
+
+
+    @foreach (MvcTIC_IT.ServiceRefEspanha.PortugalViewModel p in Model)
+    {
+            
+     <tr>
+       <td>
+           @{
+ 
+              
+              if (p.titulo==null)
+              {
+                  p.titulo = @ViewRes.Portugal.naotraduzido;
+              }
+            }
+
+          <a href="@Url.Action("Detalhes", "Espanha", new { id = p.id })">@ViewRes.Portugal.titulo : @p.titulo</a>
+          <br />
+          @ViewRes.Portugal.data : @p.dataanuncio
+          @ViewRes.Portugal.local_de_trabalho : @p.local_de_trabalho
+
+           @{
+        MvcTIC_IT.ServiceRefEspanha.ServiceEspanhaClient proxy = new MvcTIC_IT.ServiceRefEspanha.ServiceEspanhaClient();
+        MvcTIC_IT.ServiceRefEspanha.empresa emp = proxy.GetAllEmpresaByEmpresaID(p.empresa_id);
+            }
+           @ViewRes.Portugal.empresa :@emp.nome_da_empresa
+       </td>
+    
+       </tr>
+
+ 
+    
+    }
+    </tbody>
+</table>
+ 
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+
+    <br />
+    <br />
+
+          <a href="javascript:history.go(-1)">@ViewRes.Portugal.volta</a>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e197dc66-3c7f-40e1-9a85-72a9e3dd2cfb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53929/ServiceAlemanha.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceAlemanha1.xsd" MetadataType="Schema" ID="57eaf499-dffc-4d92-9782-b608671d3604" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceAlemanha5.xsd" MetadataType="Schema" ID="311fe3d0-b24e-47fb-b175-5f5d5f6c4838" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd5" />
+    <MetadataFile FileName="ServiceAlemanha2.xsd" MetadataType="Schema" ID="ef9f7134-0054-4f24-997c-68aaa4a85a42" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceAlemanha.wsdl" MetadataType="Wsdl" ID="921856cf-f148-43ab-9080-d47c4c0d4f71" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?wsdl" />
+    <MetadataFile FileName="ServiceAlemanha3.xsd" MetadataType="Schema" ID="303388b1-2e91-411d-ac91-dba536513305" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceAlemanha4.xsd" MetadataType="Schema" ID="0975f54c-9f8d-427c-8fe3-2ca08c535632" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceAlemanha6.xsd" MetadataType="Schema" ID="df70d2bc-1e4b-428f-97f3-9ea02c8f5962" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd4" />
+    <MetadataFile FileName="ServiceAlemanha.xsd" MetadataType="Schema" ID="0f6b69fb-79b3-43cc-879e-1d380cf6b1e7" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?xsd=xsd6" />
+    <MetadataFile FileName="ServiceAlemanha.disco" MetadataType="Disco" ID="6c190071-6761-4f3c-8100-e809178f5959" SourceId="1" SourceUrl="http://localhost:53929/ServiceAlemanha.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

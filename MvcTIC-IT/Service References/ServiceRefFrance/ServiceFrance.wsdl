@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServiceFrance" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:53919/ServiceFrance.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:53919/ServiceFrance.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:53919/ServiceFrance.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfITFrance" />
+      <xsd:import schemaLocation="http://localhost:53919/ServiceFrance.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data.Objects.DataClasses" />
+      <xsd:import schemaLocation="http://localhost:53919/ServiceFrance.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+      <xsd:import schemaLocation="http://localhost:53919/ServiceFrance.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/WcfITPortugal.Viewmodels" />
+      <xsd:import schemaLocation="http://localhost:53919/ServiceFrance.svc?xsd=xsd6" namespace="http://schemas.microsoft.com/Message" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServiceFrance_GetData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetDataUsingDataContract_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetDataUsingDataContract_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_AddAnuncioModel_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddAnuncioModel" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_AddAnuncioModel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddAnuncioModelResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_AddDescricao_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddDescricao" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_AddDescricao_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddDescricaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetIdioma_ID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetIdioma_ID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetIdioma_ID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetIdioma_IDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllEmpresaByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllEmpresaByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllAnunciosID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllAnunciosID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateVisitasAnuncioPortugal_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateVisitasAnuncioPortugal" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateVisitasAnuncioPortugal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateVisitasAnuncioPortugalResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosProcuraIndexByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosProcuraIndexByID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosProcuraIndexByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosProcuraIndexByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosDescProcuraIndexByIDAndLangCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDAndLangCode" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosDescProcuraIndexByIDAndLangCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDAndLangCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetCountIdiomas_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCountIdiomas" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetCountIdiomas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCountIdiomasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosDescProcuraIndexByIDALL_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDALL" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosDescProcuraIndexByIDALL_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosDescProcuraIndexByIDALLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosIndexByIdentidade_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosIndexByIdentidade" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAnunciosIndexByIdentidade_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAnunciosIndexByIdentidadeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllEmpresaByEmpresaID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByEmpresaID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllEmpresaByEmpresaID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpresaByEmpresaIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_AddEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_AddEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="StreamData">
+    <wsdl:part name="parameters" element="tns:StreamData" />
+  </wsdl:message>
+  <wsdl:message name="StreamData_Headers">
+    <wsdl:part name="Codigo" element="tns:Codigo" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_Upload_OutputMessage" />
+  <wsdl:message name="IServiceFrance_UpdateImage_file_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateImage_file" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateImage_file_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateImage_fileResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetEmpresasIndexByIdentidade_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasIndexByIdentidade" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetEmpresasIndexByIdentidade_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasIndexByIdentidadeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetEmpresaIndexByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresaIndexByID" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetEmpresaIndexByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresaIndexByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_DeleteEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_DeleteEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_DeleteAnuncio_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAnuncio" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_DeleteAnuncio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAnuncioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_Save_InputMessage">
+    <wsdl:part name="parameters" element="tns:Save" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_Save_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetEmpresasTodasasEmpresas_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasTodasasEmpresas" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetEmpresasTodasasEmpresas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpresasTodasasEmpresasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateAnuncio_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncio" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateAnuncio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateAnuncioDescricao_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncioDescricao" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_UpdateAnuncioDescricao_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAnuncioDescricaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_Search_InputMessage">
+    <wsdl:part name="parameters" element="tns:Search" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_Search_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllAnuncios_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnuncios" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllAnuncios_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllAnunciosByIdentidade_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosByIdentidade" />
+  </wsdl:message>
+  <wsdl:message name="IServiceFrance_GetAllAnunciosByIdentidade_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAnunciosByIdentidadeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServiceFrance">
+    <wsdl:operation name="GetData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetData" message="tns:IServiceFrance_GetData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetDataResponse" message="tns:IServiceFrance_GetData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetDataUsingDataContract" message="tns:IServiceFrance_GetDataUsingDataContract_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetDataUsingDataContractResponse" message="tns:IServiceFrance_GetDataUsingDataContract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddAnuncioModel">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/AddAnuncioModel" message="tns:IServiceFrance_AddAnuncioModel_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/AddAnuncioModelResponse" message="tns:IServiceFrance_AddAnuncioModel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddDescricao">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/AddDescricao" message="tns:IServiceFrance_AddDescricao_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/AddDescricaoResponse" message="tns:IServiceFrance_AddDescricao_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIdioma_ID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetIdioma_ID" message="tns:IServiceFrance_GetIdioma_ID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetIdioma_IDResponse" message="tns:IServiceFrance_GetIdioma_ID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAllEmpresaByID" message="tns:IServiceFrance_GetAllEmpresaByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAllEmpresaByIDResponse" message="tns:IServiceFrance_GetAllEmpresaByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAllAnunciosID" message="tns:IServiceFrance_GetAllAnunciosID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAllAnunciosIDResponse" message="tns:IServiceFrance_GetAllAnunciosID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateVisitasAnuncioPortugal">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/UpdateVisitasAnuncioPortugal" message="tns:IServiceFrance_UpdateVisitasAnuncioPortugal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/UpdateVisitasAnuncioPortugalResponse" message="tns:IServiceFrance_UpdateVisitasAnuncioPortugal_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosProcuraIndexByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosProcuraIndexByID" message="tns:IServiceFrance_GetAnunciosProcuraIndexByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosProcuraIndexByIDResponse" message="tns:IServiceFrance_GetAnunciosProcuraIndexByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDAndLangCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosDescProcuraIndexByIDAndLangCode" message="tns:IServiceFrance_GetAnunciosDescProcuraIndexByIDAndLangCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosDescProcuraIndexByIDAndLangCodeResponse" message="tns:IServiceFrance_GetAnunciosDescProcuraIndexByIDAndLangCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCountIdiomas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetCountIdiomas" message="tns:IServiceFrance_GetCountIdiomas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetCountIdiomasResponse" message="tns:IServiceFrance_GetCountIdiomas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDALL">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosDescProcuraIndexByIDALL" message="tns:IServiceFrance_GetAnunciosDescProcuraIndexByIDALL_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosDescProcuraIndexByIDALLResponse" message="tns:IServiceFrance_GetAnunciosDescProcuraIndexByIDALL_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosIndexByIdentidade">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosIndexByIdentidade" message="tns:IServiceFrance_GetAnunciosIndexByIdentidade_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAnunciosIndexByIdentidadeResponse" message="tns:IServiceFrance_GetAnunciosIndexByIdentidade_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByEmpresaID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAllEmpresaByEmpresaID" message="tns:IServiceFrance_GetAllEmpresaByEmpresaID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAllEmpresaByEmpresaIDResponse" message="tns:IServiceFrance_GetAllEmpresaByEmpresaID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/AddEmpresa" message="tns:IServiceFrance_AddEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/AddEmpresaResponse" message="tns:IServiceFrance_AddEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Upload">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/Upload" name="StreamData" message="tns:StreamData" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/UploadResponse" message="tns:IServiceFrance_Upload_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateImage_file">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/UpdateImage_file" message="tns:IServiceFrance_UpdateImage_file_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/UpdateImage_fileResponse" message="tns:IServiceFrance_UpdateImage_file_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasIndexByIdentidade">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetEmpresasIndexByIdentidade" message="tns:IServiceFrance_GetEmpresasIndexByIdentidade_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetEmpresasIndexByIdentidadeResponse" message="tns:IServiceFrance_GetEmpresasIndexByIdentidade_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/UpdateEmpresa" message="tns:IServiceFrance_UpdateEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/UpdateEmpresaResponse" message="tns:IServiceFrance_UpdateEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresaIndexByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetEmpresaIndexByID" message="tns:IServiceFrance_GetEmpresaIndexByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetEmpresaIndexByIDResponse" message="tns:IServiceFrance_GetEmpresaIndexByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/DeleteEmpresa" message="tns:IServiceFrance_DeleteEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/DeleteEmpresaResponse" message="tns:IServiceFrance_DeleteEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAnuncio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/DeleteAnuncio" message="tns:IServiceFrance_DeleteAnuncio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/DeleteAnuncioResponse" message="tns:IServiceFrance_DeleteAnuncio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Save">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/Save" message="tns:IServiceFrance_Save_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/SaveResponse" message="tns:IServiceFrance_Save_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasTodasasEmpresas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetEmpresasTodasasEmpresas" message="tns:IServiceFrance_GetEmpresasTodasasEmpresas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetEmpresasTodasasEmpresasResponse" message="tns:IServiceFrance_GetEmpresasTodasasEmpresas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/UpdateAnuncio" message="tns:IServiceFrance_UpdateAnuncio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/UpdateAnuncioResponse" message="tns:IServiceFrance_UpdateAnuncio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncioDescricao">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/UpdateAnuncioDescricao" message="tns:IServiceFrance_UpdateAnuncioDescricao_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/UpdateAnuncioDescricaoResponse" message="tns:IServiceFrance_UpdateAnuncioDescricao_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Search">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/Search" message="tns:IServiceFrance_Search_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/SearchResponse" message="tns:IServiceFrance_Search_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnuncios">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAllAnuncios" message="tns:IServiceFrance_GetAllAnuncios_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAllAnunciosResponse" message="tns:IServiceFrance_GetAllAnuncios_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosByIdentidade">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceFrance/GetAllAnunciosByIdentidade" message="tns:IServiceFrance_GetAllAnunciosByIdentidade_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceFrance/GetAllAnunciosByIdentidadeResponse" message="tns:IServiceFrance_GetAllAnunciosByIdentidade_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServiceFrance" type="tns:IServiceFrance">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetDataUsingDataContract" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddAnuncioModel">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/AddAnuncioModel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddDescricao">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/AddDescricao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIdioma_ID">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetIdioma_ID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByID">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAllEmpresaByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosID">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAllAnunciosID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateVisitasAnuncioPortugal">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/UpdateVisitasAnuncioPortugal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosProcuraIndexByID">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAnunciosProcuraIndexByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDAndLangCode">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAnunciosDescProcuraIndexByIDAndLangCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCountIdiomas">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetCountIdiomas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosDescProcuraIndexByIDALL">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAnunciosDescProcuraIndexByIDALL" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAnunciosIndexByIdentidade">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAnunciosIndexByIdentidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllEmpresaByEmpresaID">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAllEmpresaByEmpresaID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddEmpresa">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/AddEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Upload">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/Upload" style="document" />
+      <wsdl:input name="StreamData">
+        <soap:header message="tns:StreamData_Headers" part="Codigo" use="literal" />
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateImage_file">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/UpdateImage_file" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasIndexByIdentidade">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetEmpresasIndexByIdentidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEmpresa">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/UpdateEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresaIndexByID">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetEmpresaIndexByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEmpresa">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/DeleteEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAnuncio">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/DeleteAnuncio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Save">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/Save" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpresasTodasasEmpresas">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetEmpresasTodasasEmpresas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncio">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/UpdateAnuncio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAnuncioDescricao">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/UpdateAnuncioDescricao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Search">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/Search" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnuncios">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAllAnuncios" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAnunciosByIdentidade">
+      <soap:operation soapAction="http://tempuri.org/IServiceFrance/GetAllAnunciosByIdentidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceFrance">
+    <wsdl:port name="BasicHttpBinding_IServiceFrance" binding="tns:BasicHttpBinding_IServiceFrance">
+      <soap:address location="http://localhost:53919/ServiceFrance.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

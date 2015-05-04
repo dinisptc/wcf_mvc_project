@@ -1,0 +1,440 @@
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Models\AccountModels.cs:26
+msgid "NewPassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Models\AccountModels.cs:64
+msgid "Password"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:68
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:95
+msgid "criaoferta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:77
+msgid "descricaoover4000"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:86
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\PortugalViewModel.cs:42
+msgid "descricaorequired"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:95
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:140
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:140
+msgid "email"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:104
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\AnuncioViewModel.cs:12
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\EmpresaViewmodel.cs:21
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\PortugalViewModel.cs:23
+msgid "email_required"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:113
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\PortugalViewModel.cs:34
+msgid "empresa_required"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:122
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\PortugalViewModel.cs:28
+msgid "local_de_trabalho_required"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:131
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\EmpresaViewmodel.cs:26
+msgid "nome_da_empresa_required"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:140
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\PortugalViewModel.cs:31
+msgid "salario_required"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:149
+msgid "titulo200"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\ViewModels\Anuncios\Anuncios.Designer.cs:158
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\PortugalViewModel.cs:38
+msgid "titulorequired"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:68
+msgid "account"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:77
+msgid "apagaconta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:86
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\ApagaConta\ApagaConta.Designer.cs:68
+msgid "apagarconta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:95
+msgid "caracteres"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:104
+msgid "changepassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:113
+msgid "confirmpassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:122
+msgid "createnewaccount"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:131
+msgid "criacaodacontasemsucesso"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:149
+msgid "enterlogpass"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:158
+msgid "enviar"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:167
+msgid "erroaoenviarpassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:176
+msgid "erroaorecuperapassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:185
+msgid "forgetpass"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:194
+msgid "formbelow"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:203
+msgid "formderegisto"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:212
+msgid "geriraminhaconta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:221
+msgid "infodaconta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:230
+msgid "lembratedemim"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:239
+msgid "login"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:248
+msgid "loginform"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:257
+msgid "loginsemsucesso"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:266
+msgid "logon"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:275
+msgid "mudarpassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:284
+msgid "naotemconta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:293
+msgid "newpassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:302
+msgid "newpasswords"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:311
+msgid "oldpassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:320
+msgid "passalterada"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:329
+msgid "passrequired"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:338
+msgid "passsemsuccesso"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:347
+msgid "password"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:356
+msgid "recuperaporemail"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:365
+msgid "recuperarpass"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:374
+msgid "register"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:383
+msgid "send"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:392
+msgid "seperdeuapassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:401
+msgid "sucessoaoenviarapassword"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:410
+msgid "useformcreate"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:419
+msgid "useradmin"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Account\Account.Designer.cs:428
+msgid "username"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\ApagaConta\ApagaConta.Designer.cs:77
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:167
+msgid "temacerteza"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\ApagaConta\ApagaConta.Designer.cs:86
+msgid "utilizador"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:68
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:68
+msgid "apagado"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:77
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:77
+msgid "apagar"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:86
+msgid "contacto"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:95
+msgid "criaempresa"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:104
+msgid "delete"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:113
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:122
+msgid "detalhes"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:122
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:131
+msgid "editar"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:131
+msgid "editarfotos"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:140
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:167
+msgid "gravar"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:149
+msgid "logo"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:158
+msgid "nomedaempresa"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:176
+msgid "url"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Empresa\Empresa.Designer.cs:185
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:275
+msgid "voltaparalista"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:68
+msgid "geriralemanha"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:77
+msgid "gerirespanha"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:86
+msgid "gerirfrance"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:95
+msgid "gerirmeuspecialone"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:104
+msgid "gerirportugal"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:113
+msgid "geriruk"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:122
+msgid "gerirworld"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:131
+msgid "jobstitle"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Home\Home.Designer.cs:140
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:122
+msgid "meuspecialone"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:68
+msgid "bannerprincipal"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:77
+msgid "criaroferta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:86
+msgid "gerirasminhasempresas"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:95
+msgid "gerirosmeusanuncios"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:104
+msgid "index"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:113
+msgid "jobofeers"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:131
+msgid "MinhasEmpresa"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Layout\layout.Designer.cs:140
+msgid "pesquisa"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:86
+msgid "apagartemacerteza"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:104
+msgid "data"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:113
+msgid "descricao"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:149
+msgid "empresa"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:158
+msgid "gravado"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:176
+msgid "local_de_trabalho"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:185
+msgid "naoharegistos"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:194
+msgid "naotraduzido"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:203
+msgid "numerototalregistos"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:212
+msgid "numvisitas"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:221
+msgid "pesquisar"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:230
+msgid "salario"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:239
+msgid "titulo"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:248
+msgid "traduzir"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:257
+msgid "viewbagtittlecreate"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Resources\Views\Portugal\Portugal.Designer.cs:266
+msgid "volta"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\AnuncioViewModel.cs:13
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\EmpresaViewmodel.cs:22
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\ViewModels\PortugalViewModel.cs:24
+#, csharp-format
+msgid "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}"
+msgstr ""
+
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Views\Alemanha\IndexAdmin.cshtml:32
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Views\Espanha\IndexAdmin.cshtml:32
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Views\France\IndexAdmin.cshtml:32
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Views\Portugal\IndexAdmin.cshtml:32
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Views\UK\IndexAdmin.cshtml:32
+#: G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\Views\World\IndexAdmin.cshtml:32
+msgid "grid"
+msgstr ""

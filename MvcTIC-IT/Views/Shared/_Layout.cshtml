@@ -1,0 +1,174 @@
+@using MvcTIC_IT
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - Special One Jobs</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+        @*<link href="@System.Web.Optimization.BundleTable.Bundles.ResolveBundleUrl("~/Content/css/style.css")" rel="stylesheet" type="text/css" />*@
+        <link href="@System.Web.Optimization.BundleTable.Bundles.ResolveBundleUrl("~/Content/themes/base/css")" rel="stylesheet" type="text/css" />
+        <script src="@System.Web.Optimization.BundleTable.Bundles.ResolveBundleUrl("~/Scripts/js")"></script>
+    
+         @*<script src="../../Scripts/ddedit.js" type="text/javascript"></script>*@
+        <meta name="viewport" content="width=device-width" />
+    </head>
+    <body>
+    
+
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header">
+			<div id="logo">
+			@*	<h1><a href="#">Black/White </a></h1>*@
+			@*	<p>template design by <a href="http://www.freecsstemplates.org/">CSS Templates</a></p>*@
+            <center>
+                <img src="@ViewRes.layout.bannerprincipal" />
+                </center>
+
+			</div>
+		</div>
+	</div>
+	<!-- end #header -->
+
+    <div id="logon">
+       <ul>
+  
+           <section id="login">
+                        @Html.Partial("_LoginPartial")
+           </section>
+            
+		    <li> @Html.LanguageSelectorLink("pt-PT", "[PT]", "PT", null) </li>
+			<li> @Html.LanguageSelectorLink("en-US", "[ENG]", "ENG", null)</li>
+		    <li> @Html.LanguageSelectorLink("es-ES", "[ESP]", "ESP", null)</li>
+            <li> @Html.LanguageSelectorLink("fr-FR", "[FR]", "FR", null)</li>
+            <li> @Html.LanguageSelectorLink("de-DE", "[DE]", "DE", null)</li>
+	
+		</ul>
+    </div>
+    <div id="menu">
+
+		<ul>
+			<li class="current_page_item">@Html.ActionLink("HOME", "Index", "Home")</li>
+            <li>@Html.ActionLink(ViewRes.layout.meuspecialone, "MySpecialOne", "Home")</li>			
+			<li><a href="#">Contact</a></li>
+
+@*            @if (Roles.IsUserInRole("admin"))
+            {
+                                       
+		     <li>@Html.ActionLink("Administração", "Index", "Admin")</li>
+                         
+            }    *@
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content">
+                     @RenderSection("featured", required: false)
+			        <section id="main">
+                         @RenderBody()
+                    </section>
+					
+					<div style="clear: both;">&nbsp;</div>
+				</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<h2>Portugal</h2>
+							<ul>
+                                <li>
+                                 @Html.ActionLink(ViewRes.layout.index, "Index", "Portugal")
+                                </li>
+                                <li>
+                                 @Html.ActionLink(ViewRes.layout.pesquisa, "Pesquisa", "Portugal")
+                                </li>
+                             				
+                             							
+							</ul>
+						</li>
+						<li>
+							<h2>España</h2>
+
+							<ul>
+                               <li>
+								 @Html.ActionLink(ViewRes.layout.index, "Index", "Espanha")
+                                  </li>
+                                <li>
+                                 @Html.ActionLink(ViewRes.layout.pesquisa, "Pesquisa", "Espanha")
+                                </li>
+							</ul>
+						</li>
+						<li>
+							<h2>France</h2>
+
+							<ul>
+                               <li>
+								 @Html.ActionLink(ViewRes.layout.index, "Index", "France")
+                                  </li>
+                                <li>
+                                 @Html.ActionLink(ViewRes.layout.pesquisa, "Pesquisa", "France")
+                                </li>
+							</ul>
+						</li>
+                        <li>
+							<h2>UK</h2>
+
+							<ul>
+                               <li>
+								 @Html.ActionLink(ViewRes.layout.index, "Index", "UK")
+                                  </li>
+                                <li>
+                                 @Html.ActionLink(ViewRes.layout.pesquisa, "Pesquisa", "UK")
+                                </li>
+							</ul>
+						</li>
+                        <li>
+							<h2>Deutschland</h2>
+
+							<ul>
+                               <li>
+								 @Html.ActionLink(ViewRes.layout.index, "Index", "Alemanha")
+                                  </li>
+                                <li>
+                                 @Html.ActionLink(ViewRes.layout.pesquisa, "Pesquisa", "Alemanha")
+                                </li>
+							</ul>
+						</li>
+                        <li>
+							<h2>World</h2>
+
+							<ul>
+                               <li>
+								 @Html.ActionLink(ViewRes.layout.index, "Index", "World")
+                                  </li>
+                                <li>
+                                 @Html.ActionLink(ViewRes.layout.pesquisa, "Pesquisa", "World")
+                                </li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page -->
+</div>
+<div id="footer">
+	<p>Copyright (c) 2011 Sitename.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org/"> CSS Templates</a>.</p>
+</div>
+<!-- end #footer -->
+
+
+
+
+
+
+
+    </body>
+</html>

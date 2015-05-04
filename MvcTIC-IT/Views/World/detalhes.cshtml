@@ -1,0 +1,60 @@
+﻿@model MvcTIC_IT.ServiceRefWorld.PortugalViewModel
+
+
+@{
+    ViewBag.Title = Model.titulo;
+    ViewBag.Keywords = "quartos,rooms,zimmer";
+    ViewBag.Descricao = Model.descricao;
+}
+
+
+@{
+    
+    MvcTIC_IT.ServiceRefWorld.ServiceWorldClient proxy = new MvcTIC_IT.ServiceRefWorld.ServiceWorldClient();
+    MvcTIC_IT.ServiceRefWorld.empresa emp = proxy.GetAllEmpresaByEmpresaID(Model.empresa_id);
+ 
+ }
+
+   <center>     
+     <img src="/pt-PT/World/ThumbImoveis/@emp.logo" alt=""/>
+   </center>
+             @{
+ 
+              
+             if (Model.titulo == null)
+              {
+                  Model.titulo = @ViewRes.Portugal.naotraduzido;
+                  Model.descricao = @ViewRes.Portugal.naotraduzido;
+              }
+            
+           }
+   <br />
+   <br />
+   <br />
+   <br />
+
+    <div class="display-label">@ViewRes.Portugal.data</div>
+    <div class="display-field">@Model.dataanuncio</div>
+        
+    <div class="display-label">@ViewRes.Portugal.email</div>
+    <div class="display-field">@Model.email</div>
+    
+    <div class="display-label">@ViewRes.Portugal.local_de_trabalho</div>
+    <div class="display-field">@Model.local_de_trabalho</div>
+
+    <div class="display-label">@ViewRes.Portugal.salario</div>
+    <div class="display-field">@Model.salario</div>
+
+    <div class="display-label">@ViewRes.Portugal.numvisitas</div>
+    <div class="display-field">@Model.numvisitas</div>
+
+    <div class="display-label">@ViewRes.Portugal.titulo</div>
+    <div class="display-field">@Model.titulo</div>
+
+    <div class="display-label">@ViewRes.Portugal.descricao</div>
+    <div class="display-field">@Html.Raw(Model.descricao)</div>
+
+    <br />
+    <br />
+
+          <a href="javascript:history.go(-1)">@ViewRes.Portugal.volta</a>

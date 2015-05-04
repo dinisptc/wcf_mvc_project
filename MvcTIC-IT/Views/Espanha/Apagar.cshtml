@@ -1,0 +1,52 @@
+﻿@model MvcTIC_IT.ServiceRefEspanha.anuncio
+
+
+@{
+    ViewBag.Title = "Apagar";
+}
+
+
+<h2>@ViewRes.Portugal.apagar</h2>
+
+<h3>@ViewRes.Portugal.apagartemacerteza</h3>
+
+
+<fieldset>
+
+    <div class="display-label">@ViewRes.Portugal.data</div>
+    <div class="display-field">@Model.dataanuncio</div>
+        
+    <div class="display-label">@ViewRes.Portugal.email</div>
+    <div class="display-field">@Model.email</div>
+    
+    <div class="display-label">@ViewRes.Portugal.local_de_trabalho</div>
+    <div class="display-field">@Model.local_de_trabalho</div>
+
+    <div class="display-label">@ViewRes.Portugal.salario</div>
+    <div class="display-field">@Model.salario</div>
+
+    <div class="display-label">@ViewRes.Portugal.numvisitas</div>
+    <div class="display-field">@Model.numvisitas</div>
+@*
+    <div class="display-label">@ViewRes.Portugal.titulo</div>
+    <div class="display-field">@Model.titulo</div>
+
+    <div class="display-label">@ViewRes.Portugal.descricao</div>
+    <div class="display-field">@Html.Raw(Model.descricao)</div>*@
+    </fieldset>
+
+    <br />
+    <br />
+
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="@ViewRes.Portugal.apagar" /> 
+    </p>
+    
+    
+    <br />
+    <br />
+
+          <a href="javascript:history.go(-1)">@ViewRes.Portugal.volta</a>
+}
+        

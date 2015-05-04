@@ -1,0 +1,151 @@
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\ResolveAssemblyReference.cache
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+F:\PROJECTOS\www.tic-it.com\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.xml
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+D:\HP_BEATS_AUDIO_30_05_2012\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\es\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\de\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\fr\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.xml
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\de\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\es\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\fr\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\ResolveAssemblyReference.cache
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+F:\specialone-jobs\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll.config
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.Tests.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Optimization.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\MvcTIC-IT.pdb
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\PagedList.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.Common.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.WebHost.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Web.Http.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Net.Http.Formatting.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\System.Json.xml
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\de\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\es\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\fr\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\bin\Debug\pt\MvcTIC-IT.resources.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.csprojResolveAssemblyReference.cache
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.dll
+G:\PROJECTOS\www.jobs-it.com\MvcTIC-IT_NOW\MvcTIC-IT_14_presente (36)\MvcTIC-IT_14_presente\MvcTIC-IT\MvcTIC-IT\MvcTIC-IT.Tests\obj\Debug\MvcTIC-IT.Tests.pdb

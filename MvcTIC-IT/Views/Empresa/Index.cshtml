@@ -1,0 +1,66 @@
+﻿@model IPagedList<MvcTIC_IT.ServiceRefPortugal.empresa>
+
+@{
+    ViewBag.Title = "List";
+}
+
+@using PagedList.Mvc;
+@using PagedList;
+ 
+<html>
+<head>
+    <title>Paged List Demo</title>
+
+    <link href="../../Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+<h2>Portugal</h2>
+<br />
+ <br />
+ @Html.ActionLink(ViewRes.Empresa.criaempresa, "Create", "Empresa")
+
+ <br />
+ <br />
+<table>
+
+    <tbody>
+
+
+
+    @foreach (MvcTIC_IT.ServiceRefPortugal.empresa p in Model)
+    {
+            
+     <tr>
+       <td>
+     
+
+          <a href="@Url.Action("Details", "Empresa", new { id = p.id })">@ViewRes.Empresa.nomedaempresa : @p.nome_da_empresa</a>
+          <br />
+      @*    @ViewRes.Empresa.url : @p.url*@
+          @ViewRes.Empresa.contacto : @p.contacto
+
+      
+       </td>
+     
+
+       </tr>
+            <tr>
+       <td>
+            @Html.ActionLink(ViewRes.Empresa.editar, "Edit", new { id=p.id }) |
+            @Html.ActionLink(ViewRes.Empresa.editarfotos, "InsereFotos", new { id = p.id }) |
+            @Html.ActionLink(ViewRes.Empresa.detalhes, "Details", new { id = p.id }) |
+            @Html.ActionLink(ViewRes.Empresa.delete, "Delete", new { id=p.id })
+       
+       </td>
+     
+
+       </tr>
+    }
+    </tbody>
+</table>
+ 
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</body>
+</html>
+

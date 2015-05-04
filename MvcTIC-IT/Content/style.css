@@ -1,0 +1,961 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	/*background: #FFFFFF url(images/img04.jpg) repeat;*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #808080;
+}
+
+
+a:link, a:visited,
+a:active, a:hover {
+    color: #333;
+    outline: none;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-decoration: underline;
+}
+
+a:hover {
+    background-color: #c7d1d6;
+}
+
+header, footer, hgroup,
+nav, section {
+    display: block;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.highlight {
+    background-color: #a6dbed;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.clear-fix:after {
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    color: #000;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.75em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+h5, h6 {
+    font-size: 1em;
+}
+
+p, ul,ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img.border {
+	border: 6px solid #EEE7DF;
+}
+
+img.alignleft {
+	float: left;
+	margin-right: 25px;
+}
+
+img.alignright {
+	float: right;
+}
+
+img.aligncenter {
+	margin: 0px auto;
+}
+
+#wrapper {
+	margin: 0 auto;
+	padding: 0;
+	background: url(images/img03.gif) no-repeat center top;
+}
+
+
+/* ordered list */
+ol.round {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+    ol.round li {
+        margin: 25px 0;
+        padding-left: 45px;
+    }
+
+        ol.round li.one {
+            background: url("../Images/orderedListOne.png") no-repeat;
+        }
+
+        ol.round li.two {
+            background: url("../Images/orderedListTwo.png") no-repeat;
+        }
+
+        ol.round li.three {
+            background: url("../Images/orderedListThree.png") no-repeat;
+        }
+
+/* Header */
+
+#header-wrapper {
+	height: 240px;
+}
+
+#header {
+	width: 960px;
+	height: 240px;
+	margin: 0 auto;
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	height: 100px;
+	margin: 0;
+	padding: 0px;
+	color: #1A1A1A;
+}
+
+#logo h1, #logo p {
+	margin: 0;
+	padding: 0;
+}
+
+#logo h1 {
+	float: left;
+	margin: 0px;
+	padding-top: 100px;
+	padding-left: 30px;
+	letter-spacing: -1px;
+	text-transform: lowercase;
+	font-size: 64px;
+	color: #1A1A1A;
+}
+
+#logo h1 a {
+	color: #1A1A1A;
+}
+
+#logo p {
+	padding: 0px 0 0 34px;
+	font-family: 'Nova Mono', cursive;
+	font-size: 20px;
+}
+
+#logo a {
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #A4A4A4;
+}
+
+/* Search */
+
+#search {
+	float: right;
+	width: 280px;
+	height: 100px;
+	padding: 0;
+}
+
+#search form {
+	height: 41px;
+	margin: 0;
+	padding: 60px 0 0 30px;
+}
+
+#search fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#search-text {
+	width: 195px;
+	padding: 6px 10px;
+	border: none;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 11px Arial, Helvetica, sans-serif;
+	color: #7F7F81;
+}
+
+#search-submit {
+	display: none;
+}
+
+/* Menu */
+
+#menu {
+	width: 960px;
+	height: 40px;
+	margin: 0 auto;
+	padding: 0;
+	border-top: 1px solid #D0D0D0;
+	border-bottom: 1px solid #D0D0D0;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0px 0px 0px 4px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+}
+
+#menu a {
+	display: block;
+	margin-right: 1px;
+	padding: 13px 20px 10px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #4E5B64;
+	border: none;
+}
+
+#menu .current_page_item a {
+}
+
+#menu a:hover {
+	text-decoration: none;
+}
+
+/* Page */
+
+#page {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#page-bgtop {
+}
+
+#page-bgbtm {
+	margin: 0px;
+	padding: 40px 30px 0px 30px;
+}
+
+/* Content */
+
+#content {
+	float: left;
+    width : 600px;
+    /*width :100%;*/
+	padding: 0px 0px 0px 0px;
+}
+
+
+
+.links {
+	display: block;
+	width: 96px;
+	padding: 2px 0px 2px 0px;
+	background: #A53602;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: right;
+	width: 240px;
+	padding: 0px 0px 0px 0px;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+	margin: 0;
+	padding: 0;
+}
+
+#sidebar li ul {
+	margin: 0px 15px;
+	padding-bottom: 30px;
+}
+
+#sidebar li li {
+	padding-left: 20px;
+	line-height: 35px;
+	background: url(images/img01.jpg) no-repeat left 12px;
+}
+
+#sidebar li li span {
+	display: block;
+	margin-top: -20px;
+	padding: 0;
+	font-size: 11px;
+	font-style: italic;
+}
+
+#sidebar h2 {
+	height: 38px;
+	margin-bottom: 20px;
+	padding: 12px 0 0 15px;
+	border-bottom: 1px solid #D0D0D0;
+	letter-spacing: -1px;
+	font-size: 24px;
+	color: #1A1A1A;
+}
+
+#sidebar p {
+	margin: 0 0px;
+	padding: 0px 20px 20px 20px;
+	text-align: justify;
+}
+
+#sidebar a {
+	border: none;
+}
+
+#sidebar a:hover {
+	text-decoration: underline;
+}
+
+/* Calendar */
+
+#calendar {
+}
+
+#calendar_wrap {
+	padding: 20px;
+}
+
+#calendar table {
+	width: 100%;
+}
+
+#calendar tbody td {
+	text-align: center;
+}
+
+#calendar #next {
+	text-align: right;
+}
+
+/* Footer */
+
+#footer {
+	width: 960px;
+	height: 55px;
+	margin: 0px auto 40px auto;
+	border-top: 1px solid #D0D0D0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer p {
+	margin: 0;
+	padding-top: 18px;
+	line-height: normal;
+	text-align: center;
+	color: #676767;
+}
+
+#footer a {
+	color: #676767;
+}
+
+
+/* Logon Lang */
+
+#logon {
+	width: 960px;
+	height: 40px;
+	margin: 0 auto;
+	padding: 0;
+
+}
+
+#logon ul {
+	margin: 0;
+	padding: 0px 0px 0px 4px;
+	list-style: none;
+	line-height: normal;
+}
+
+#logon li {
+	float: right;
+}
+
+#logon a {
+	display: block;
+	margin-right: 1px;
+	padding: 13px 20px 10px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #4E5B64;
+	border: none;
+}
+
+#logon .current_page_item a {
+}
+
+#logon a:hover {
+	text-decoration: none;
+}
+
+
+/* FORM LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+input[type="text"], 
+input[type="password"] {
+    border: 1px solid #ccc;
+    padding: 2px;
+    font-size: 1.2em;
+    color: #444;
+    width: 200px;
+}
+
+select {
+    border: 1px solid #ccc;
+    padding: 2px;
+    font-size: 1.2em;
+    color: #444;
+}
+
+input[type="submit"] {
+    font-size: 1.2em;
+    padding: 5px;
+}
+
+/* TABLE
+----------------------------------------------------------*/
+
+table {
+  /*  border: solid 1px #e8eef4;*/
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 5px;
+     /*  border: solid 1px #e8eef4;*/
+}
+
+table th {
+    padding: 6px 5px;
+    text-align: left;
+    background-color: #e8eef4;
+    /*border: solid 1px #e8eef4;*/
+}
+
+/* MISC  
+----------------------------------------------------------*/
+.clear {
+    clear: both;
+}
+
+.error {
+    color: Red;
+}
+
+nav, 
+#menucontainer {
+    margin-top: 40px;
+}
+
+div#title {
+    display: block;
+    float: left;
+    text-align: left;
+}
+
+#logindisplay {
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    margin: 10px;
+    color: White;
+}
+
+#logindisplay a:link {
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:visited {
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #ff0000;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+/* Styles for editor and display helpers
+----------------------------------------------------------*/
+.display-label, 
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.display-field, 
+.editor-field {
+    margin: 0.5em 0 0 0;
+
+}
+
+.text-box {
+    width: 30em;
+}
+
+.text-box.multi-line {
+    height: 6.5em;
+}
+
+.tri-state {
+    width: 6em;
+}
+/* forms */
+
+/* FORM LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset 
+{
+    border:1px solid #ddd;
+    padding:0 1.4em 1.4em 1.4em;
+    margin:0 0 1.5em 0;
+}
+
+legend 
+{
+    font-size:1.2em;
+    font-weight: bold;
+}
+/*
+fieldset {
+    border:none;
+    margin: 0;
+    padding: 0;
+}
+*/
+/*
+    fieldset legend {
+        display: none;
+    }
+  */  
+    fieldset ol {
+        padding: 0;
+        list-style: none;
+    }
+
+        fieldset ol li {
+            padding-bottom: 5px;
+        }
+
+    fieldset label {
+        display: block;
+        font-size: 1.2em;
+        font-weight: 600;
+    }
+
+    fieldset label.checkbox {
+        display: inline;
+    }
+
+    fieldset input[type="text"],
+    fieldset input[type="password"] {
+        border: 1px solid #e2e2e2;
+        color: #333;
+        font-size: 1.2em;
+        margin: 5px 0 6px 0;
+        padding: 5px;
+        width: 300px;
+    }
+
+        fieldset input[type="text"]:focus,
+        fieldset input[type="password"]:focus {
+            border: 1px solid #7ac0da;
+        }
+
+    fieldset input[type="submit"] {
+        background-color: #d3dce0;
+        border: 1px solid #787878;
+        cursor: pointer;
+        font-size: 1.2em;
+        font-weight: 600;
+        padding: 7px;
+    }
+
+/* ajax login/registration dialog */
+.modal-popup {
+    font-size: 0.7em;
+}
+
+    .modal-popup input[type="text"],
+    .modal-popup input[type="password"] {
+        width: 90%;
+    }
+
+/* info and errors */
+.message-info {
+    border: 1px solid;
+    clear: both;
+    padding: 10px 20px;
+}
+
+.message-error {
+    clear: both;
+    color: #e80c4d;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+}
+
+.message-success {
+    color: #7ac0da;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+}
+
+.error {
+    color: #e80c4d;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #e80c4d;
+    font-weight: bold;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input[type="text"].input-validation-error,
+input[type="password"].input-validation-error {
+    border: 1px solid #e80c4d;
+}
+
+.validation-summary-errors {
+    color: #e80c4d;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+ul#social li {
+    display: inline;
+    list-style: none;
+}
+
+    ul#social li a {
+        color: #999;
+        text-decoration: none;
+    }
+
+    a.facebook, a.twitter {
+        display: block;
+        float: left;
+        height: 24px;
+        padding-left: 17px;
+        text-indent: -9999px;
+        width: 16px;
+    }
+
+    a.facebook {
+        background: url("../Images/facebook.png") no-repeat;
+    }
+
+    a.twitter {
+        background: url("../Images/twitter.png") no-repeat;
+    }
+
+
+/********************
+*   Mobile Styles   *
+********************/
+@media only screen and (max-width: 850px) {
+
+    /* header
+    ----------------------------------------------------------*/
+    header .float-left,
+    header .float-right {
+        float: none;
+    }
+
+    /* logo */
+    header .site-title {
+        margin: 10px;
+        text-align: center;
+    }
+
+    /* login */
+    #login {
+        font-size: .85em;
+        margin: 0 0 12px;
+        text-align: center;
+    }
+
+        #login ul {
+            margin: 5px 0;
+            padding: 0;
+        }
+
+        #login li {
+            display: inline;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #login a {
+            background: none;
+            color: #999;
+            font-weight: 600;
+            margin: 2px;
+            padding: 0;
+        }
+
+        #login a:hover {
+            color: #333;
+        }
+
+    /* menu */
+    nav {
+        margin-bottom: 5px;
+    }
+
+    ul#menu {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+        ul#menu li {
+            margin: 0;
+            padding: 0;
+        }
+
+
+    /* main layout
+    ----------------------------------------------------------*/
+    .main-content,
+    .featured + .main-content {
+        background-position: 10px 0;
+    }
+
+    .content-wrapper {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .featured .content-wrapper {
+        padding: 10px;
+    }
+
+    /* page content */
+    article, aside {
+        float: none;
+        width: 100%;
+    }
+
+    /* ordered list */
+    ol.round {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+        ol.round li {
+            padding-left: 10px;
+            margin: 25px 0;
+        }
+
+            ol.round li.one,
+            ol.round li.two,
+            ol.round li.three {
+                background: none;
+            }
+
+     /* features */
+     section.feature {
+        float: none;
+        padding: 10px;
+        width: auto;
+     }
+
+        section.feature img {
+            color: #999;
+            content: attr(alt);
+            font-size: 1.5em;
+            font-weight: 600;
+        }
+
+    /* forms */
+    fieldset input[type="text"],
+    fieldset input[type="password"] {
+        width: 90%;
+    }
+
+    /* login page */
+    #loginForm {
+        border-right: none;
+        float: none;
+        width: auto;
+    }
+
+        #loginForm .validation-error {
+            display: block;
+            margin-left: 15px;
+        }
+
+    #socialLoginForm {
+        margin-left: 0;
+        float: none;
+        width: auto;
+    }
+
+    /* footer
+    ----------------------------------------------------------*/
+    footer .float-left,
+    footer .float-right {
+        float: none;
+    }
+
+    footer {
+        text-align: center;
+        height: auto;
+        padding: 10px 0;
+    }
+
+        footer p {
+            margin: 0;
+        }
+
+        ul#social {
+            padding: 0;
+            margin: 0;
+        }
+
+        a.facebook, a.twitter {
+            background: none;
+            display: inline;
+            float: none;
+            height: auto;
+            padding-left: 0;
+            text-indent: 0;
+            width: auto;
+        }
+}
+
+/*----------------*/
+.wide
+{
+  width:2000px;
+
+ /*width:400px;    */
+}

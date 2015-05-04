@@ -1,0 +1,62 @@
+﻿@model MvcTIC_IT.ServiceRefAlemanha.empresa
+
+@{
+    ViewBag.Title = ViewRes.Empresa.detalhes;
+}
+
+<h2>@ViewRes.Empresa.detalhes</h2>
+
+<fieldset>
+
+
+    @try
+    {
+
+            
+           <center>
+   
+
+           <img src="/pt-PT/EmpresaDE/ThumbImoveis/@Model.logo" alt="logo"/>                                                               
+           </center>
+            
+
+              
+       
+    }
+    catch
+    {
+          
+           
+    
+    }
+             
+
+    <div class="display-label">
+         @ViewRes.Empresa.nomedaempresa
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nome_da_empresa)
+    </div>
+
+    <div class="display-label">
+        @ViewRes.Empresa.url
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.url)
+    </div>
+
+    <div class="display-label">
+        @ViewRes.Empresa.contacto
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.contacto)
+    </div>
+</fieldset>
+<br />
+<br />
+
+
+<p>
+    @Html.ActionLink(ViewRes.Empresa.editar, "Edit", new { id = Model.id }) |   
+    @Html.ActionLink(@ViewRes.Empresa.voltaparalista, "Index")
+</p>
